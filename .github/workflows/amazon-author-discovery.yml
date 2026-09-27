@@ -1,5 +1,7 @@
 name: Discover Amazon Author Books
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "17 4 * * 1"
   workflow_dispatch:
