@@ -1,0 +1,78 @@
+name: Claude Code GitHub Integration
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: write
+  pull-requests: write
+
+jobs:
+  process-issue:
+    if: github.event_name == 'issues' && contains(github.event.issue.labels.*.name, 'claude-code')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Process issue with Claude Code
+        uses: nicholaslee119/claude-code-github-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        with:
+          mode: 'issue'
+          issue-number: ${{ github.event.issue.number }}
+          issue-body: ${{ github.event.issue.body }}
+          issue-title: ${{ github.event.issue.title }}
+          base-branch: 'main'
+          use-bedrock: 'false'
+
+  process-review:
+    if: github.event_name == 'issue_comment' && github.event.issue.pull_request && startsWith(github.event.comment.body, 'Review:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get PR details
+        id: pr
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const prNumber = context.payload.issue.number;
+            const commentId = context.payload.comment.id;
+            const reviewFeedback = context.payload.comment.body.substring(7).trim();
+            const { data: pr } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber
+            });
+
+            core.setOutput('number', prNumber);
+            core.setOutput('commentId', commentId);
+            core.setOutput('feedback', reviewFeedback);
+            core.setOutput('headRef', pr.head.ref);
+
+      - name: Process PR review with Claude Code
+        uses: nicholaslee119/claude-code-github-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        with:
+          mode: 'review'
+          pr-number: ${{ steps.pr.outputs.number }}
+          comment-id: ${{ steps.pr.outputs.commentId }}
+          feedback: ${{ steps.pr.outputs.feedback }}
+          head-ref: ${{ steps.pr.outputs.headRef }}
+          use-bedrock: 'false'
