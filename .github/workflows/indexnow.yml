@@ -1,0 +1,16 @@
+name: Notify search engines
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify IndexNow
+        run: |
+          curl --fail --silent --show-error -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            --data '{"host":"techbaggg.github.io","key":"cbb743ad59c1fc487c5cc2887dcb2c62e11855a8","keyLocation":"https://techbaggg.github.io/cbb743ad59c1fc487c5cc2887dcb2c62e11855a8.txt","urlList":["https://techbaggg.github.io/"]}'
