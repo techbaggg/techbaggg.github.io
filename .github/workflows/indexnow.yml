@@ -13,4 +13,4 @@ jobs:
         run: |
           curl --fail --silent --show-error -X POST "https://api.indexnow.org/indexnow" \
             -H "Content-Type: application/json; charset=utf-8" \
-            --data '{"host":"techbaggg.github.io","key":"cbb743ad59c1fc487c5cc2887dcb2c62e11855a8","keyLocation":"https://techbaggg.github.io/cbb743ad59c1fc487c5cc2887dcb2c62e11855a8.txt","urlList":["https://techbaggg.github.io/"]}'
+            --data '{"host":"techbaggg.github.io","key":"cbb743ad59c1fc487c5cc2887dcb2c62e11855a8","keyLocation":"https://techbaggg.github.io/cbb743ad59c1fc487c5cc2887dcb2c62e11855a8.txt","urlList":["https://techbaggg.github.io/","https://techbaggg.github.io/author/","https://techbaggg.github.io/about/","https://techbaggg.github.io/books/","https://techbaggg.github.io/books/time-travel/","https://techbaggg.github.io/books/large-language-models/","https://techbaggg.github.io/books/mount-kailash-bermuda-triangle-atlantis/","https://techbaggg.github.io/books/travellers-guide-mount-shasta/","https://techbaggg.github.io/ai-data-experience/","https://techbaggg.github.io/contact/"]}'
