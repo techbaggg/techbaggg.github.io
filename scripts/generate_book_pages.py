@@ -45,7 +45,20 @@ def clean_title(book):
         return ""
     if title.lower().startswith("amazon.com:"):
         return ""
+    # Drop Amazon's "...: Lastname, Firstname: ISBN" tail.
+    title = re.sub(r":\s*(Gambhir|Arora)\b[^:]*(:.*)?$", "", title).strip(" -:")
     return title
+
+def short(text, limit):
+    text = " ".join((text or "").split())
+    return text if len(text) <= limit else text[: limit - 1].rstrip() + "\u2026"
+
+def page_title(title):
+    full = f"{title} by Jagdish Krishanlal Arora"
+    if len(full) <= 60:
+        return full
+    branded = f"{title} | Jagdish Arora"
+    return branded if len(branded) <= 60 else short(title, 60)
 
 def is_indexable(book):
     return bool(clean_title(book))
@@ -66,7 +79,10 @@ def description(book):
         return book["description"].strip()
     if not is_indexable(book):
         return f"Amazon edition {book.get('asin','')} for the Jagdish Krishanlal Arora book catalog."
-    return f"{title} by Jagdish Krishanlal Arora is a {genre} title. Explore the book details and Amazon edition on the official author website."
+    kind = "a" if genre.lower() in ("other", "book", "") else f"a {genre}"
+    if kind == "a":
+        return f"{title} by Jagdish Krishanlal Arora. Book details and the Amazon.com listing on the official author website."
+    return f"{title} by Jagdish Krishanlal Arora is {kind} title. Book details and the Amazon.com listing on the official author website."
 
 def page(book, canonical=None):
     indexable = is_indexable(book)
@@ -93,14 +109,17 @@ def page(book, canonical=None):
     robots = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" if indexable else "noindex, follow"
     schema = ""
     if indexable:
-        schema = f'<script type="application/ld+json">{json.dumps({"@context":"https://schema.org","@type":"Book","name":title,"author":{"@type":"Person","name":"Jagdish Krishanlal Arora","url":f"{BASE}/author/"},"url":canonical_url,"isbn":isbn,"description":desc}, ensure_ascii=False)}</script>'
+        data = {"@context": "https://schema.org", "@type": "Book", "name": title, "author": {"@type": "Person", "name": "Jagdish Krishanlal Arora", "url": f"{BASE}/author/"}, "url": canonical_url, "description": desc}
+        if isbn: data["isbn"] = isbn
+        if book.get("asin"): data["identifier"] = {"@type": "PropertyValue", "propertyID": "ASIN", "value": book["asin"]}
+        schema = f'<script type="application/ld+json">{json.dumps(data, ensure_ascii=False)}</script>'
     return f'''<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#f5f1e8">
-<meta name="description" content="{esc(desc[:300])}">
+<meta name="description" content="{esc(short(desc, 155))}">
 <meta name="author" content="Jagdish Krishanlal Arora">
 <meta name="robots" content="{robots}">
 <link rel="canonical" href="{esc(canonical_url)}">
@@ -114,7 +133,7 @@ def page(book, canonical=None):
 <meta name="twitter:title" content="{esc(title)} by Jagdish Krishanlal Arora">
 <meta name="twitter:description" content="{esc(desc[:300])}">
 <meta name="twitter:image" content="{BASE}/og-image.png">
-<title>{esc(title)} by Jagdish Krishanlal Arora</title>
+<title>{esc(page_title(title))}</title>
 <link rel="stylesheet" href="../../style.css">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 {schema}
@@ -152,7 +171,7 @@ def page(book, canonical=None):
 </html>
 '''
 
-def update_sitemap(indexable_slugs):
+def update_sitemap(indexable_slugs, excluded_slugs=frozenset()):
     if not SITEMAP.exists():
         return
     text = SITEMAP.read_text(encoding="utf-8")
@@ -162,7 +181,7 @@ def update_sitemap(indexable_slugs):
             match = re.search(r"https://techbaggg\.github\.io/books/([^/<]+)/", line)
             if match:
                 slug = match.group(1)
-                if slug.startswith("amazon-com") and slug not in indexable_slugs:
+                if (slug.startswith("amazon-com") and slug not in indexable_slugs) or slug in excluded_slugs or not (BOOKS / slug / "index.html").exists():
                     continue
         kept.append(line)
     text = "\n".join(kept) + "\n"
@@ -190,8 +209,11 @@ for book in books:
     book["slug"] = requested
 
 indexable_slugs = set()
+excluded_slugs = set()
 for book in books:
     canonical = canonical_slug(book, books)
+    if canonical != book["slug"] or not is_indexable(book):
+        excluded_slugs.add(book["slug"])
     target = BOOKS / book["slug"] / "index.html"
     desired = page(book, canonical=canonical)
     if is_indexable(book):
@@ -202,5 +224,5 @@ for book in books:
 
 payload["books"] = books
 DATA.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-update_sitemap(indexable_slugs)
+update_sitemap(indexable_slugs, excluded_slugs - indexable_slugs)
 print(f"Catalog: {len(books)} records; indexable book pages: {len(indexable_slugs)}.")
