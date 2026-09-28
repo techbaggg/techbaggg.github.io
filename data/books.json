@@ -650,7 +650,7 @@
       "amazon_url": "https://www.amazon.com/dp/B0CRHT9CL9",
       "google_books_status": "error",
       "amazon_title_status": "found",
-      "slug": "amazon-com-b0crht9cl9",
+      "slug": "mount-kailas",
       "google_books_error": "HTTP Error 429: Too Many Requests",
       "cover": "https://m.media-amazon.com/images/I/7118geVMvgL._CLa%7C3609%2C1800%7C717ZA9b71iL.jpg%7C0%2C0%2C1800%2C1800%2B1809%2C0%2C1800%2C1800__.jpg"
     },
@@ -717,7 +717,7 @@
       "amazon_url": "https://www.amazon.com/dp/B0CNS5LBLD",
       "google_books_status": "error",
       "amazon_title_status": "found",
-      "slug": "world-war-iv-russia-vs-united-states-gambhir-jagdish-9798868413254",
+      "slug": "world-war-iv-russia-vs-united-states",
       "google_books_error": "HTTP Error 429: Too Many Requests"
     }
   ]
