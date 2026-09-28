@@ -1,4 +1,5 @@
 name: Update book catalog
+# SEO cleanup v2 trigger
 
 on:
   schedule:
