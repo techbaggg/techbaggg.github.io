@@ -1,4 +1,4 @@
-name: Discover Amazon Author Books
+name: Discover and Build Amazon Book Catalog
 on:
   push:
     branches: [main]
@@ -12,20 +12,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
       - name: Discover Amazon product identifiers
         run: python3 scripts/scrape_amazon_author.py
-      - name: Commit discoveries
+      - name: Enrich catalog
+        run: python3 scripts/enrich_books_google.py
+      - name: Generate individual book pages
+        run: python3 scripts/generate_book_pages.py
+      - name: Commit catalog, pages and sitemap
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -f data/amazon-discovered-books.json ]; then
-            git add data/amazon-discovered-books.json
-            if git diff --cached --quiet; then
-              echo "No Amazon catalog changes."
-            else
-              git commit -m "Update Amazon author book discoveries"
-              git push
-            fi
+          git add data/amazon-discovered-books.json data/books.json books sitemap.xml
+          if git diff --cached --quiet; then
+            echo "No catalog or page changes."
           else
-            echo "Amazon did not return a scrapeable page; keeping the existing catalog."
+            git commit -m "Update Amazon book catalog and individual pages"
+            git push
           fi
