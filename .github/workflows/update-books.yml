@@ -32,7 +32,7 @@ permissions:
 
 jobs:
   update:
-    name: Discover → Enrich → Commit
+    name: Discover → Enrich → Clean catalog
     runs-on: ubuntu-latest
     timeout-minutes: 45
 
@@ -59,6 +59,9 @@ jobs:
           fi
           python3 scripts/enrich_books_google.py --ci $FORCE_FLAG
 
+      - name: Generate and clean individual book pages
+        run: python3 scripts/generate_book_pages.py
+
       - name: Show catalog summary
         run: |
           python3 - << 'EOF'
@@ -66,10 +69,16 @@ jobs:
           from pathlib import Path
           d = json.loads(Path("data/books.json").read_text())
           books = d.get("books", [])
-          enriched = sum(1 for b in books if b.get("google_books_status") == "enriched")
+          indexable = sum(
+              bool((b.get("title") or "").strip())
+              and not (b.get("title") or "").lower().startswith("amazon edition")
+              and not (b.get("title") or "").lower().startswith("amazon.com")
+              for b in books
+          )
           print(f"Discovered : {d.get('discovered_count', '?')}")
           print(f"Catalog    : {len(books)} unique ASINs")
-          print(f"Enriched   : {enriched}")
+          print(f"Indexable  : {indexable}")
+          print(f"Generated/updated book pages: see generator output above")
           EOF
 
       - name: Commit updated catalog
@@ -80,6 +89,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No catalog changes."
           else
-            git commit -m "chore: update book catalog and individual pages [skip ci]"
+            git commit -m "chore: update book catalog and SEO pages"
             git push
           fi
