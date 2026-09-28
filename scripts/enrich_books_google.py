@@ -8,6 +8,7 @@ Pipeline:
 4. Enrich titled books with Google Books metadata when a confident match exists.
 5. Write one deduplicated books.json used by the website.
 """
+import argparse
 import html
 import json
 import re
@@ -145,7 +146,12 @@ def slugify(title, asin):
     value = re.sub(r"\s+", "-", value).strip("-")
     return (value[:90] or f"amazon-{asin.lower()}")
 
-parser = argparse.ArgumentParser()\nparser.add_argument("--ci", action="store_true", help="Run in CI mode.")\nparser.add_argument("--force", action="store_true", help="Re-run Google Books enrichment for existing entries.")\nargs = parser.parse_args()\n\nexisting_payload = json.loads(OUTPUT.read_text(encoding="utf-8")) if OUTPUT.exists() else {"books": []}
+parser = argparse.ArgumentParser()
+parser.add_argument("--ci", action="store_true", help="Run in CI mode.")
+parser.add_argument("--force", action="store_true", help="Re-run Google Books enrichment for existing entries.")
+args = parser.parse_args()
+
+existing_payload = json.loads(OUTPUT.read_text(encoding="utf-8")) if OUTPUT.exists() else {"books": []}
 existing = {book.get("asin"): book for book in existing_payload.get("books", []) if book.get("asin")}
 
 discovered_payload = json.loads(DISCOVERED.read_text(encoding="utf-8"))
