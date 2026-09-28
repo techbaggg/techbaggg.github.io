@@ -2,7 +2,14 @@ document.getElementById('year').textContent=new Date().getFullYear();
 
 (function () {
   var footer = document.querySelector('.footer');
-  if (!footer || document.querySelector('.amazon-affiliate-banner')) return;
+  var body = document.body;
+  if (!body || document.querySelector('.amazon-affiliate-banner')) return;
+
+  if (footer) {
+    Array.prototype.slice.call(footer.querySelectorAll('a[href*="affiliate-disclosure"]')).forEach(function (link) {
+      link.remove();
+    });
+  }
 
   var banner = document.createElement('section');
   banner.className = 'amazon-affiliate-banner';
@@ -18,7 +25,7 @@ document.getElementById('year').textContent=new Date().getFullYear();
       '</span>' +
     '</a>';
 
-  footer.parentNode.insertBefore(banner, footer);
+  body.insertBefore(banner, body.firstElementChild);
 })();
 
 (function () {
