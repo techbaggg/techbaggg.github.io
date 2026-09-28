@@ -182,6 +182,9 @@ new_count = 0
 force = "--force" in sys.argv
 
 for book in books.values():
+    if normalize(book.get("title", "")) in {"amazon", "amazon com", "amazoncom"}:
+        book["title"] = None
+        book["google_books_status"] = "pending"
     if not book.get("title"):
         title, cover = amazon_title(book["asin"])
         if title:
@@ -190,7 +193,7 @@ for book in books.values():
             if cover and not book.get("cover"):
                 book["cover"] = cover
         else:
-            book["title"] = f"Amazon edition {book['asin']}"
+            book["title"] = f"Amazon edition — {book['asin']}"
             book["amazon_title_status"] = "unavailable"
         new_count += 1
         time.sleep(0.15)
