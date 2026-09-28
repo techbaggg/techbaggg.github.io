@@ -117,10 +117,32 @@ document.getElementById('year').textContent=new Date().getFullYear();
           card.insertBefore(img, title);
         }
         card.appendChild(link);
+        if (book.slug) {
+          var detail = document.createElement('a');
+          detail.className = 'text-link';
+          detail.href = '/books/' + book.slug + '/';
+          detail.textContent = 'Book page →';
+          card.appendChild(detail);
+        }
         grid.appendChild(card);
       });
     })
     .catch(function () {
       grid.innerHTML = '<p class="not-found" style="display:block">The verified book data is temporarily unavailable.</p>';
     });
+})();
+
+(function () {
+  var path = window.location.pathname;
+  if (path.indexOf('/articles/') !== 0 || path === '/articles/' || document.querySelector('.article-book-links')) return;
+  var target = '/books/';
+  if (/large-language|prompt-engineering|ai-and-the-future/i.test(path)) target = '/books/large-language-models/';
+  else if (/kailash|bermuda|atlantis/i.test(path)) target = '/books/mount-kailash-bermuda-triangle-atlantis/';
+  else if (/shasta/i.test(path)) target = '/books/travellers-guide-mount-shasta/';
+  else if (/time-travel/i.test(path)) target = '/books/time-travel/';
+  var section = document.createElement('section');
+  section.className = 'related-content article-book-links';
+  section.innerHTML = '<p class="eyebrow">RELATED BOOK</p><h2>Continue with the book</h2><p>Explore the related title on the official author site, then use the Amazon link to check the current edition.</p><div class="related-links"><a href="' + target + '">Open book page →</a><a href="/books/">Browse all books →</a></div>';
+  var main = document.querySelector('main');
+  if (main) main.appendChild(section);
 })();
