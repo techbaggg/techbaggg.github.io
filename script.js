@@ -12,7 +12,6 @@ document.getElementById('year').textContent=new Date().getFullYear();
     '<div class="amazon-affiliate-copy">' +
       '<span class="amazon-affiliate-label">AMAZON.IN</span>' +
       '<strong>Explore and shop on Amazon.in</strong>' +
-      '<small>Paid link · As an Amazon Associate I earn from qualifying purchases.</small>' +
     '</div>' +
     '<a class="amazon-affiliate-button" href="https://amzn.to/4yWFRi5" target="_blank" rel="sponsored noopener noreferrer">Visit Amazon.in ↗</a>';
 
