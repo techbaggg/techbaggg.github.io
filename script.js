@@ -1,4 +1,15 @@
 document.getElementById('year').textContent=new Date().getFullYear();
+(function () {
+  var nav = document.querySelector('.nav nav');
+  if (!nav || nav.querySelector('a[href*="resume"]')) return;
+  var link = document.createElement('a');
+  link.href = window.location.pathname.indexOf('/resume/') === 0 || window.location.pathname.indexOf('/contact/') === 0 || window.location.pathname.indexOf('/author/') === 0 || window.location.pathname.indexOf('/about/') === 0 ? '../resume/' : 'resume/';
+  link.textContent = 'Resume';
+  var contact = nav.querySelector('a[href*="contact"]');
+  if (contact) nav.insertBefore(link, contact);
+  else nav.appendChild(link);
+})();
+
 
 (function () {
   var footer = document.querySelector('.footer');
