@@ -1,0 +1,132 @@
+{
+  "generated_at": "2026-09-28T00:00:00Z",
+  "source": "Confirmed Amazon author research seeds; Google Books metadata enrichment is performed by scripts/enrich_books_google.py.",
+  "books": [
+    {
+      "asin": "B0CMXXVNKF",
+      "title": "Travellers Guide to Mount Kailash",
+      "isbn": "9798866972128",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "travel",
+      "amazon_url": "https://www.amazon.com/dp/B0CMXXVNKF",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0CHYC1W19",
+      "title": "Unity Quest",
+      "isbn": "9798215363843",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CHYC1W19",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0CFVYRTMB",
+      "title": "The Struggling Author",
+      "isbn": "9798223915218",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "writing",
+      "amazon_url": "https://www.amazon.com/dp/B0CFVYRTMB",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0CFDKNZXL",
+      "title": "Book of Jokes",
+      "isbn": "9798857245552",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "humor",
+      "amazon_url": "https://www.amazon.com/dp/B0CFDKNZXL",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0CXTMHZH7",
+      "title": "Large Language Models",
+      "isbn": null,
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "ai",
+      "amazon_url": "https://www.amazon.com/dp/B0CXTMHZH7",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0CZDSV9KZ",
+      "title": "Large Language Models",
+      "isbn": "9798321238592",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "ai",
+      "amazon_url": "https://www.amazon.com/dp/B0CZDSV9KZ",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0CZM17N7W",
+      "title": "Large Language Models - LLMs",
+      "isbn": "9798224994915",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "ai",
+      "amazon_url": "https://www.amazon.com/dp/B0CZM17N7W",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0F2NBPWNJ",
+      "title": "Inside the Dark Web",
+      "isbn": "9798315666790",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "technology",
+      "amazon_url": "https://www.amazon.com/dp/B0F2NBPWNJ",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0CDYXML7K",
+      "title": "Guided Meditation and Yoga",
+      "isbn": "9798854504966",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "wellness",
+      "amazon_url": "https://www.amazon.com/dp/B0CDYXML7K",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0CXJ3L561",
+      "title": "Children of the Magic Realm",
+      "isbn": "9798884107021",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CXJ3L561",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0CC4KH4DY",
+      "title": "The Aliens and God Theory",
+      "isbn": "9798852616272",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0CC4KH4DY",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0G1BF33V4",
+      "title": "Basic and Advanced Physics",
+      "isbn": "9798273440999",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "science",
+      "amazon_url": "https://www.amazon.com/dp/B0G1BF33V4",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B086MN47V4",
+      "title": "Indira Gandhi-Harbinger of Peace",
+      "isbn": "9798632458153",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "history",
+      "amazon_url": "https://www.amazon.com/dp/B086MN47V4",
+      "google_books_status": "pending"
+    },
+    {
+      "asin": "B0F272QZ1M",
+      "title": "Ukraine Ceasefire Agreement and History",
+      "isbn": null,
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "history",
+      "amazon_url": "https://www.amazon.com/dp/B0F272QZ1M",
+      "google_books_status": "pending"
+    }
+  ]
+}
