@@ -1,0 +1,84 @@
+name: Update book catalog
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "data/amazon-discovered-books.json"
+      - "data/books.json"
+      - "scripts/enrich_books_google.py"
+      - "scripts/scrape_amazon_author.py"
+      - ".github/workflows/update-books.yml"
+  workflow_dispatch:
+    inputs:
+      force_enrich:
+        description: "Re-enrich existing entries with Google Books (yes/no)"
+        required: false
+        default: "no"
+      skip_scrape:
+        description: "Skip the Amazon author-page discovery step (yes/no)"
+        required: false
+        default: "no"
+
+concurrency:
+  group: update-books-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Discover → Enrich → Commit
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Discover ASINs from Amazon author page
+        if: ${{ github.event.inputs.skip_scrape != 'yes' }}
+        run: python3 scripts/scrape_amazon_author.py
+
+      - name: Enrich catalog with Amazon and Google Books metadata
+        run: |
+          FORCE_FLAG=""
+          if [ "${{ github.event.inputs.force_enrich }}" = "yes" ]; then
+            FORCE_FLAG="--force"
+          fi
+          python3 scripts/enrich_books_google.py --ci $FORCE_FLAG
+
+      - name: Show catalog summary
+        run: |
+          python3 - << 'EOF'
+          import json
+          from pathlib import Path
+          d = json.loads(Path("data/books.json").read_text())
+          books = d.get("books", [])
+          enriched = sum(1 for b in books if b.get("google_books_status") == "enriched")
+          print(f"Discovered : {d.get('discovered_count', '?')}")
+          print(f"Catalog    : {len(books)} unique ASINs")
+          print(f"Enriched   : {enriched}")
+          EOF
+
+      - name: Commit updated catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/amazon-discovered-books.json data/books.json
+          if git diff --cached --quiet; then
+            echo "No catalog changes."
+          else
+            git commit -m "chore: update book catalog [skip ci]"
+            git push
+          fi
