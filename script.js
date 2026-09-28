@@ -84,3 +84,43 @@ document.getElementById('year').textContent=new Date().getFullYear();
   if (filter) filter.addEventListener('change', render);
   render();
 })();
+
+(function () {
+  var grid = document.getElementById('pipeline-books-grid');
+  if (!grid) return;
+
+  fetch('/data/books.json', {cache: 'no-store'})
+    .then(function (response) { if (!response.ok) throw new Error('Book data unavailable'); return response.json(); })
+    .then(function (data) {
+      grid.innerHTML = '';
+      (data.books || []).forEach(function (book) {
+        var card = document.createElement('article');
+        card.className = 'catalog-card verified-book';
+        var title = document.createElement('h3');
+        title.textContent = book.title || 'Untitled book';
+        var meta = document.createElement('p');
+        meta.textContent = (book.isbn ? 'ISBN ' + book.isbn + ' · ' : '') + 'ASIN ' + book.asin;
+        var link = document.createElement('a');
+        link.className = 'amazon-button';
+        link.href = book.amazon_url;
+        link.target = '_blank';
+        link.rel = 'noopener';
+        link.textContent = 'Amazon.com ↗';
+        card.appendChild(title);
+        card.appendChild(meta);
+        if (book.cover) {
+          var img = document.createElement('img');
+          img.className = 'book-cover-image';
+          img.src = book.cover;
+          img.alt = (book.title || 'Book') + ' cover';
+          img.loading = 'lazy';
+          card.insertBefore(img, title);
+        }
+        card.appendChild(link);
+        grid.appendChild(card);
+      });
+    })
+    .catch(function () {
+      grid.innerHTML = '<p class="not-found" style="display:block">The verified book data is temporarily unavailable.</p>';
+    });
+})();
