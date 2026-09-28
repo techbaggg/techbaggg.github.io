@@ -34,7 +34,7 @@ jobs:
   update:
     name: Discover → Enrich → Commit
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
 
     steps:
       - name: Checkout repository
@@ -58,9 +58,6 @@ jobs:
             FORCE_FLAG="--force"
           fi
           python3 scripts/enrich_books_google.py --ci $FORCE_FLAG
-
-      - name: Generate individual book pages
-        run: python3 scripts/generate_book_pages.py
 
       - name: Show catalog summary
         run: |
