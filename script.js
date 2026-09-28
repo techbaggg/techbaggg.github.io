@@ -9,11 +9,14 @@ document.getElementById('year').textContent=new Date().getFullYear();
   banner.setAttribute('aria-label', 'Amazon Associates link');
 
   banner.innerHTML =
-    '<div class="amazon-affiliate-copy">' +
-      '<span class="amazon-affiliate-label">AMAZON.IN</span>' +
-      '<strong>Explore and shop on Amazon.in</strong>' +
-    '</div>' +
-    '<a class="amazon-affiliate-button" href="https://amzn.to/4yWFRi5" target="_blank" rel="sponsored noopener noreferrer">Visit Amazon.in ↗</a>';
+    '<a class="amazon-affiliate-link" href="https://amzn.to/4yWFRi5" target="_blank" rel="sponsored noopener noreferrer" aria-label="Amazon.in Deals">' +
+      '<span class="amazon-affiliate-logo" aria-hidden="true"><span>amazon</span><i></i></span>' +
+      '<span class="amazon-affiliate-copy">' +
+        '<span class="amazon-affiliate-domain">amazon.in</span>' +
+        '<strong>Amazon.in - Deals</strong>' +
+        '<span>Explore deals on Amazon.in</span>' +
+      '</span>' +
+    '</a>';
 
   footer.parentNode.insertBefore(banner, footer);
 })();
