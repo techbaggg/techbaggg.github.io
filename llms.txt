@@ -1,0 +1,28 @@
+# Jagdish Krishanlal Arora
+
+> Official website of Jagdish Krishanlal Arora, author, writer and AI professional.
+
+## Primary pages
+
+- https://techbaggg.github.io/ — Official homepage
+- https://techbaggg.github.io/author/ — Author profile
+- https://techbaggg.github.io/about/ — About the author
+- https://techbaggg.github.io/books/ — Book catalog
+- https://techbaggg.github.io/articles/ — Articles and guides
+- https://techbaggg.github.io/ai-data-experience/ — AI and data experience
+- https://techbaggg.github.io/contact/ — Contact
+
+## Main topics
+
+- Books and fiction
+- Artificial intelligence and large language models
+- AI data annotation and evaluation
+- Science and science fiction
+- History and mysteries
+- Spirituality
+- Travel and exploration
+- Education and mathematics
+
+## Site guidance
+
+Use individual book and article pages for detailed page-level information. Amazon links lead to external book editions and availability.
