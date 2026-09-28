@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:00:00Z",
+  "generated_at": "2026-09-28T06:00:00Z",
   "source": "Confirmed Amazon author research seeds; Google Books metadata enrichment is performed by scripts/enrich_books_google.py.",
   "books": [
     {
@@ -9,7 +9,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "travel",
       "amazon_url": "https://www.amazon.com/dp/B0CMXXVNKF",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "travellers-guide-mount-kailash"
     },
     {
       "asin": "B0CHYC1W19",
@@ -18,7 +19,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "fiction",
       "amazon_url": "https://www.amazon.com/dp/B0CHYC1W19",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "unity-quest"
     },
     {
       "asin": "B0CFVYRTMB",
@@ -27,7 +29,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "writing",
       "amazon_url": "https://www.amazon.com/dp/B0CFVYRTMB",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "the-struggling-author"
     },
     {
       "asin": "B0CFDKNZXL",
@@ -36,7 +39,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "humor",
       "amazon_url": "https://www.amazon.com/dp/B0CFDKNZXL",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "book-of-jokes"
     },
     {
       "asin": "B0CXTMHZH7",
@@ -45,7 +49,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "ai",
       "amazon_url": "https://www.amazon.com/dp/B0CXTMHZH7",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "large-language-models"
     },
     {
       "asin": "B0CZDSV9KZ",
@@ -54,7 +59,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "ai",
       "amazon_url": "https://www.amazon.com/dp/B0CZDSV9KZ",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "large-language-models"
     },
     {
       "asin": "B0CZM17N7W",
@@ -63,7 +69,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "ai",
       "amazon_url": "https://www.amazon.com/dp/B0CZM17N7W",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "large-language-models"
     },
     {
       "asin": "B0F2NBPWNJ",
@@ -72,7 +79,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "technology",
       "amazon_url": "https://www.amazon.com/dp/B0F2NBPWNJ",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "inside-the-dark-web"
     },
     {
       "asin": "B0CDYXML7K",
@@ -81,7 +89,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "wellness",
       "amazon_url": "https://www.amazon.com/dp/B0CDYXML7K",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "guided-meditation-and-yoga"
     },
     {
       "asin": "B0CXJ3L561",
@@ -90,7 +99,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "fiction",
       "amazon_url": "https://www.amazon.com/dp/B0CXJ3L561",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "children-of-the-magic-realm"
     },
     {
       "asin": "B0CC4KH4DY",
@@ -99,7 +109,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "mystery",
       "amazon_url": "https://www.amazon.com/dp/B0CC4KH4DY",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "the-aliens-and-god-theory"
     },
     {
       "asin": "B0G1BF33V4",
@@ -108,7 +119,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "science",
       "amazon_url": "https://www.amazon.com/dp/B0G1BF33V4",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "basic-and-advanced-physics"
     },
     {
       "asin": "B086MN47V4",
@@ -117,7 +129,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "history",
       "amazon_url": "https://www.amazon.com/dp/B086MN47V4",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "indira-gandhi-harbinger-of-peace"
     },
     {
       "asin": "B0F272QZ1M",
@@ -126,7 +139,8 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "history",
       "amazon_url": "https://www.amazon.com/dp/B0F272QZ1M",
-      "google_books_status": "pending"
+      "google_books_status": "pending",
+      "slug": "ukraine-ceasefire-agreement-and-history"
     }
   ]
 }
