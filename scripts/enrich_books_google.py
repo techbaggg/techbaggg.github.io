@@ -29,7 +29,7 @@ def fetch_text(url):
     req = urllib.request.Request(url, headers={
         "User-Agent": "Mozilla/5.0 (compatible; JagdishAroraBookCatalog/1.0; +https://techbaggg.github.io/)"
     })
-    with urllib.request.urlopen(req, timeout=30) as response:
+    with urllib.request.urlopen(req, timeout=10) as response:
         return response.read().decode("utf-8", errors="replace")
 
 def fetch_json(url):
@@ -196,7 +196,7 @@ for book in books.values():
             book["title"] = f"Amazon edition — {book['asin']}"
             book["amazon_title_status"] = "unavailable"
         new_count += 1
-        time.sleep(0.15)
+        time.sleep(0.05)
 
     if not book.get("slug"):
         book["slug"] = slugify(book["title"], book["asin"])
@@ -204,7 +204,7 @@ for book in books.values():
     # Google enrichment is additive; never overwrite curated ISBNs.
     if force or book.get("google_books_status") in (None, "pending", "no-title"):
         enrich_google(book)
-        time.sleep(0.2)
+        time.sleep(0.1)
 
 payload = {
     "generated_at": datetime.now(timezone.utc).isoformat(),
