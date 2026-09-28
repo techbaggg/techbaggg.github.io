@@ -10,6 +10,7 @@ on:
       - "data/books.json"
       - "scripts/enrich_books_google.py"
       - "scripts/scrape_amazon_author.py"
+      - "scripts/generate_book_pages.py"
       - ".github/workflows/update-books.yml"
   workflow_dispatch:
     inputs:
@@ -58,6 +59,9 @@ jobs:
           fi
           python3 scripts/enrich_books_google.py --ci $FORCE_FLAG
 
+      - name: Generate individual book pages
+        run: python3 scripts/generate_book_pages.py
+
       - name: Show catalog summary
         run: |
           python3 - << 'EOF'
@@ -75,10 +79,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/amazon-discovered-books.json data/books.json
+          git add data/amazon-discovered-books.json data/books.json books sitemap.xml
           if git diff --cached --quiet; then
             echo "No catalog changes."
           else
-            git commit -m "chore: update book catalog [skip ci]"
+            git commit -m "chore: update book catalog and individual pages [skip ci]"
             git push
           fi
