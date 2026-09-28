@@ -11,6 +11,7 @@ Pipeline:
 import html
 import json
 import re
+import sys
 import time
 import urllib.parse
 import urllib.request
@@ -170,6 +171,8 @@ for item in discovered:
         books[asin]["amazon_url"] = item.get("amazon_url") or books[asin].get("amazon_url")
 
 new_count = 0
+force = "--force" in sys.argv
+
 for book in books.values():
     if not book.get("title"):
         title, cover = amazon_title(book["asin"])
@@ -188,7 +191,7 @@ for book in books.values():
         book["slug"] = slugify(book["title"], book["asin"])
 
     # Google enrichment is additive; never overwrite curated ISBNs.
-    if book.get("google_books_status") in (None, "pending", "no-title"):
+    if force or book.get("google_books_status") in (None, "pending", "no-title"):
         enrich_google(book)
         time.sleep(0.2)
 
