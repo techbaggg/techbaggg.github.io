@@ -62,6 +62,8 @@ def amazon_title(asin):
 
     title = re.sub(r"\s*[:\-]\s*Amazon\.com.*$", "", title, flags=re.I).strip()
     title = re.sub(r"\s*\|\s*Amazon.*$", "", title, flags=re.I).strip()
+    if normalize(title) in {"amazon", "amazon com", "amazoncom"} or title.lower().startswith("amazon.com:"):
+        return None, None
 
     cover = None
     cover_patterns = [
