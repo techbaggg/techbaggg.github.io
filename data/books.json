@@ -1,247 +1,19 @@
 {
-  "generated_at": "2026-10-03T01:32:17.062Z",
-  "source": "Author library synchronized from the personal-author-website-creation book catalog; Amazon cover URLs derived from ASINs.",
-  "catalog_count": 95,
+  "generated_at": "2026-10-03T01:33:10.871123+00:00",
+  "source": "Amazon author-page discoveries merged with curated seeds and enriched with Amazon/Google Books metadata.",
+  "discovered_count": 54,
+  "catalog_count": 134,
   "books": [
     {
-      "asin": "B0DZCV4W6Q",
-      "title": "King’s Love - Princess Diana Prince Charles & Camilla Parker Bowles: A Billionaire Romance Movie Story",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0DZCV4W6Q",
-      "cover": "https://m.media-amazon.com/images/P/B0DZCV4W6Q.01.L.jpg"
-    },
-    {
-      "asin": "B0DZWDJ9TK",
-      "title": "Married to A Disabled Billionaire CEO: Only She Can Heal Him",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0DZWDJ9TK",
-      "cover": "https://m.media-amazon.com/images/P/B0DZWDJ9TK.01.L.jpg"
-    },
-    {
-      "asin": "B0DR8K3TNR",
-      "title": "Manusmriti",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0DR8K3TNR",
-      "cover": "https://m.media-amazon.com/images/P/B0DR8K3TNR.01.L.jpg"
-    },
-    {
-      "asin": "B0HJX72BNV",
-      "title": "Large Language Models",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Technology & AI",
-      "amazon_url": "https://www.amazon.com/dp/B0HJX72BNV",
-      "cover": "https://m.media-amazon.com/images/P/B0HJX72BNV.01.L.jpg"
-    },
-    {
-      "asin": "B0CCW1SC8D",
-      "title": "TRAVELING TO MARS IN THE COSMIC ODYSSEY 2050 (Children's Story books Book 2)",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Children",
-      "amazon_url": "https://www.amazon.com/dp/B0CCW1SC8D",
-      "cover": "https://m.media-amazon.com/images/P/B0CCW1SC8D.01.L.jpg"
-    },
-    {
-      "asin": "B0CH6P3RMY",
-      "title": "WordPress Design and Development",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Technology & AI",
-      "amazon_url": "https://www.amazon.com/dp/B0CH6P3RMY",
-      "cover": "https://m.media-amazon.com/images/P/B0CH6P3RMY.01.L.jpg"
-    },
-    {
-      "asin": "B0G1HBGRXD",
-      "title": "The Nobel Prize and Its Global Influence",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Science",
-      "amazon_url": "https://www.amazon.com/dp/B0G1HBGRXD",
-      "cover": "https://m.media-amazon.com/images/P/B0G1HBGRXD.01.L.jpg"
-    },
-    {
-      "asin": "B0B663Z73N",
-      "title": "The Guru Granth Sahib: The Eternal God",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0B663Z73N",
-      "cover": "https://m.media-amazon.com/images/P/B0B663Z73N.01.L.jpg"
-    },
-    {
-      "asin": "B0CLL25QLR",
-      "title": "Travellers Guide to Mount Kailash",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0CLL25QLR",
-      "cover": "https://m.media-amazon.com/images/P/B0CLL25QLR.01.L.jpg"
-    },
-    {
-      "asin": "B0CNRM4FLC",
-      "title": "World War IV: Russia Vs United States",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B0CNRM4FLC",
-      "cover": "https://m.media-amazon.com/images/P/B0CNRM4FLC.01.L.jpg"
-    },
-    {
-      "asin": "B0B61WHCR6",
-      "title": "Secrets of Mount Kailash, Bermuda Triangle and the Lost City of Atlantis",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0B61WHCR6",
-      "cover": "https://m.media-amazon.com/images/P/B0B61WHCR6.01.L.jpg"
-    },
-    {
-      "asin": "B0DT4V5BKT",
-      "title": "The Successful Journey of a Woman Painter",
+      "asin": "B0CHW2WX5W",
+      "title": "2024 Elections, Bharat, Modern India and Bharat Jodo Yatra of Rahul Gandhi",
       "author": "Jagdish Krishanlal Arora",
       "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0DT4V5BKT",
-      "cover": "https://m.media-amazon.com/images/P/B0DT4V5BKT.01.L.jpg"
-    },
-    {
-      "asin": "B0CRNTFJM2",
-      "title": "Stellaris: Journey to the Stars: The Interstellar Odyssey (Children's Story books Book 1)",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Children",
-      "amazon_url": "https://www.amazon.com/dp/B0CRNTFJM2",
-      "cover": "https://m.media-amazon.com/images/P/B0CRNTFJM2.01.L.jpg"
-    },
-    {
-      "asin": "B0CBZV1NHL",
-      "title": "The Aliens and God Theory",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0CBZV1NHL",
-      "cover": "https://m.media-amazon.com/images/P/B0CBZV1NHL.01.L.jpg"
-    },
-    {
-      "asin": "B0G2G1ZWHB",
-      "title": "The Origin and Mystery of 3I/ATLAS",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Science",
-      "amazon_url": "https://www.amazon.com/dp/B0G2G1ZWHB",
-      "cover": "https://m.media-amazon.com/images/P/B0G2G1ZWHB.01.L.jpg"
-    },
-    {
-      "asin": "B0H878DNBK",
-      "title": "MASS CHEATING UNDER THE NAME OF HOUSING LOANS IN INDIA: THE FLOATING RATE INTEREST METHOD",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0H878DNBK",
-      "cover": "https://m.media-amazon.com/images/P/B0H878DNBK.01.L.jpg"
-    },
-    {
-      "asin": "B0FKTDLZSD",
-      "title": "THE PATH TO SHAMBALA: Tibetan Buddhist Adventure Thriller",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0FKTDLZSD",
-      "cover": "https://m.media-amazon.com/images/P/B0FKTDLZSD.01.L.jpg"
-    },
-    {
-      "asin": "B0CH5Z6BKM",
-      "title": "The Bhagavad Gita English Version",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0CH5Z6BKM",
-      "cover": "https://m.media-amazon.com/images/P/B0CH5Z6BKM.01.L.jpg"
-    },
-    {
-      "asin": "B0CNTH8KFZ",
-      "title": "India Independence Through Non Violence",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B0CNTH8KFZ",
-      "cover": "https://m.media-amazon.com/images/P/B0CNTH8KFZ.01.L.jpg"
-    },
-    {
-      "asin": "B0CWBMMQ3K",
-      "title": "Children of the Magic Realm",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Children",
-      "amazon_url": "https://www.amazon.com/dp/B0CWBMMQ3K",
-      "cover": "https://m.media-amazon.com/images/P/B0CWBMMQ3K.01.L.jpg"
-    },
-    {
-      "asin": "B0FD47BJSL",
-      "title": "DIGITAL ELECTRONICS, COMPUTER ARCHITECTURE AND MICROPORCESSOR DESIGN PRINCIPLES: WITH REAL LIFE PRACTICAL APPLICATION IN COMPUTING, NETWORKING, MINING, REMOTE SENSING, DATABASE AND IMAGERY",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0FD47BJSL",
-      "cover": "https://m.media-amazon.com/images/P/B0FD47BJSL.01.L.jpg"
-    },
-    {
-      "asin": "B0FMNKNF9J",
-      "title": "Basic and Advanced Physics",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Science",
-      "amazon_url": "https://www.amazon.com/dp/B0FMNKNF9J",
-      "cover": "https://m.media-amazon.com/images/P/B0FMNKNF9J.01.L.jpg"
-    },
-    {
-      "asin": "B0CG64CX52",
-      "title": "Basic Inorganic and Organic Chemistry",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Science",
-      "amazon_url": "https://www.amazon.com/dp/B0CG64CX52",
-      "cover": "https://m.media-amazon.com/images/P/B0CG64CX52.01.L.jpg"
-    },
-    {
-      "asin": "B0CFJJ6GW1",
-      "title": "Book of Jokes",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CFJJ6GW1",
-      "cover": "https://m.media-amazon.com/images/P/B0CFJJ6GW1.01.L.jpg"
-    },
-    {
-      "asin": "B0CG4KYNPY",
-      "title": "The Lunar Voyager: Return to the Moon (Children's Story books Book 3)",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Children",
-      "amazon_url": "https://www.amazon.com/dp/B0CG4KYNPY",
-      "cover": "https://m.media-amazon.com/images/P/B0CG4KYNPY.01.L.jpg"
-    },
-    {
-      "asin": "B0CDQ3TNCJ",
-      "title": "Unity's Quest: The Enchanted Secrets of Greenvale",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Children",
-      "amazon_url": "https://www.amazon.com/dp/B0CDQ3TNCJ",
-      "cover": "https://m.media-amazon.com/images/P/B0CDQ3TNCJ.01.L.jpg"
-    },
-    {
-      "asin": "B0CRV2FBLP",
-      "title": "A Werewolf's Tale of Love and Destiny",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0CRV2FBLP",
-      "cover": "https://m.media-amazon.com/images/P/B0CRV2FBLP.01.L.jpg"
-    },
-    {
-      "asin": "B0FCDHSRPL",
-      "title": "The Marriage That Wasn't Mine",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0FCDHSRPL",
-      "cover": "https://m.media-amazon.com/images/P/B0FCDHSRPL.01.L.jpg"
-    },
-    {
-      "asin": "B0F6VRZNS7",
-      "title": "Contract Marriage to Everlasting Love",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0F6VRZNS7",
-      "cover": "https://m.media-amazon.com/images/P/B0F6VRZNS7.01.L.jpg"
-    },
-    {
-      "asin": "B0CVV9NXXQ",
-      "title": "The Attic's Secrets",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B0CVV9NXXQ",
-      "cover": "https://m.media-amazon.com/images/P/B0CVV9NXXQ.01.L.jpg"
+      "amazon_url": "https://www.amazon.com/dp/B0CHW2WX5W",
+      "cover": "https://m.media-amazon.com/images/P/B0CHW2WX5W.01.L.jpg",
+      "slug": "2024-elections-bharat-modern-india-and-bharat-jodo-yatra-of-rahul-gandhi",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
       "asin": "B0CW1K2S4R",
@@ -249,119 +21,10 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "Health & Lifestyle",
       "amazon_url": "https://www.amazon.com/dp/B0CW1K2S4R",
-      "cover": "https://m.media-amazon.com/images/P/B0CW1K2S4R.01.L.jpg"
-    },
-    {
-      "asin": "B0CQN36QQ3",
-      "title": "LOVE IN CHICAGO",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0CQN36QQ3",
-      "cover": "https://m.media-amazon.com/images/P/B0CQN36QQ3.01.L.jpg"
-    },
-    {
-      "asin": "B0G2K2VS7W",
-      "title": "EVM: Electronic Voting Machine Hacking, Design, and Software",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Technology & AI",
-      "amazon_url": "https://www.amazon.com/dp/B0G2K2VS7W",
-      "cover": "https://m.media-amazon.com/images/P/B0G2K2VS7W.01.L.jpg"
-    },
-    {
-      "asin": "B0CN6K3K3D",
-      "title": "Become a Better Writer With Creative Writing",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CN6K3K3D",
-      "cover": "https://m.media-amazon.com/images/P/B0CN6K3K3D.01.L.jpg"
-    },
-    {
-      "asin": "B09R6QK2WF",
-      "title": "The Old and New World Order",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B09R6QK2WF",
-      "cover": "https://m.media-amazon.com/images/P/B09R6QK2WF.01.L.jpg"
-    },
-    {
-      "asin": "B0CJ2LT3PZ",
-      "title": "The Kremlin Conspiracy",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B0CJ2LT3PZ",
-      "cover": "https://m.media-amazon.com/images/P/B0CJ2LT3PZ.01.L.jpg"
-    },
-    {
-      "asin": "B0CPJ5VMB8",
-      "title": "DECODING CHATGPT AND ARTIFICIAL INTELLIGENCE",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Technology & AI",
-      "amazon_url": "https://www.amazon.com/dp/B0CPJ5VMB8",
-      "cover": "https://m.media-amazon.com/images/P/B0CPJ5VMB8.01.L.jpg"
-    },
-    {
-      "asin": "B0FCMR736G",
-      "title": "Expedition to the Lost City of Atlantis",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B0FCMR736G",
-      "cover": "https://m.media-amazon.com/images/P/B0FCMR736G.01.L.jpg"
-    },
-    {
-      "asin": "B0CF9619W9",
-      "title": "The Bible and Jesus Christ",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0CF9619W9",
-      "cover": "https://m.media-amazon.com/images/P/B0CF9619W9.01.L.jpg"
-    },
-    {
-      "asin": "B07GC6CMBR",
-      "title": "Media Convergence and Digitization: Media and Internet, Social Media Management, News and Digital Marketing",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B07GC6CMBR",
-      "cover": "https://m.media-amazon.com/images/P/B07GC6CMBR.01.L.jpg"
-    },
-    {
-      "asin": "B0CKB7WZMK",
-      "title": "Mental Health and Well Being",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Health & Lifestyle",
-      "amazon_url": "https://www.amazon.com/dp/B0CKB7WZMK",
-      "cover": "https://m.media-amazon.com/images/P/B0CKB7WZMK.01.L.jpg"
-    },
-    {
-      "asin": "B0FMK9SDZW",
-      "title": "The Billionaire’s Housemaid",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0FMK9SDZW",
-      "cover": "https://m.media-amazon.com/images/P/B0FMK9SDZW.01.L.jpg"
-    },
-    {
-      "asin": "B0FLDVH5JZ",
-      "title": "Operation White House: Donald J. Trump",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0FLDVH5JZ",
-      "cover": "https://m.media-amazon.com/images/P/B0FLDVH5JZ.01.L.jpg"
-    },
-    {
-      "asin": "B0FPFH1DKQ",
-      "title": "Romantic Noveels Collection",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0FPFH1DKQ",
-      "cover": "https://m.media-amazon.com/images/P/B0FPFH1DKQ.01.L.jpg"
-    },
-    {
-      "asin": "B0DNTSZTHQ",
-      "title": "Planet Earth",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0DNTSZTHQ",
-      "cover": "https://m.media-amazon.com/images/P/B0DNTSZTHQ.01.L.jpg"
+      "cover": "https://m.media-amazon.com/images/P/B0CW1K2S4R.01.L.jpg",
+      "slug": "7-day-ketogenic-diet-plan",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
       "asin": "B0DGFZF8S6",
@@ -369,199 +32,10 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "History & Mystery",
       "amazon_url": "https://www.amazon.com/dp/B0DGFZF8S6",
-      "cover": "https://m.media-amazon.com/images/P/B0DGFZF8S6.01.L.jpg"
-    },
-    {
-      "asin": "B0DYP1WNV6",
-      "title": "Mastering Prompt Engineering: Unlocking the Full Potential of AI",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Technology & AI",
-      "amazon_url": "https://www.amazon.com/dp/B0DYP1WNV6",
-      "cover": "https://m.media-amazon.com/images/P/B0DYP1WNV6.01.L.jpg"
-    },
-    {
-      "asin": "B0F272QZ1M",
-      "title": "THE UKRAINE CEASEFIRE AGREEMENT AND HISTORY",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B0F272QZ1M",
-      "cover": "https://m.media-amazon.com/images/P/B0F272QZ1M.01.L.jpg"
-    },
-    {
-      "asin": "B0CDBXYRRG",
-      "title": "Guided Meditation and Yoga",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0CDBXYRRG",
-      "cover": "https://m.media-amazon.com/images/P/B0CDBXYRRG.01.L.jpg"
-    },
-    {
-      "asin": "B0CQP2QLYM",
-      "title": "ROMANTIC CONFLICTS (Romance Book 1)",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0CQP2QLYM",
-      "cover": "https://m.media-amazon.com/images/P/B0CQP2QLYM.01.L.jpg"
-    },
-    {
-      "asin": "B0FDCJ4NGS",
-      "title": "Contract Marriage to Everlasting Love",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0FDCJ4NGS",
-      "cover": "https://m.media-amazon.com/images/P/B0FDCJ4NGS.01.L.jpg"
-    },
-    {
-      "asin": "B0F7FT8PKJ",
-      "title": "The Stranger at our House",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0F7FT8PKJ",
-      "cover": "https://m.media-amazon.com/images/P/B0F7FT8PKJ.01.L.jpg"
-    },
-    {
-      "asin": "B0CK19BQ8Z",
-      "title": "Book of Herbs and Spices",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CK19BQ8Z",
-      "cover": "https://m.media-amazon.com/images/P/B0CK19BQ8Z.01.L.jpg"
-    },
-    {
-      "asin": "B0CKNNYT38",
-      "title": "Administrative Law: Adapting to New Challenges and Realities",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CKNNYT38",
-      "cover": "https://m.media-amazon.com/images/P/B0CKNNYT38.01.L.jpg"
-    },
-    {
-      "asin": "B0CNKXK6LN",
-      "title": "God was Created by Early Human Civilizations",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Spirituality",
-      "amazon_url": "https://www.amazon.com/dp/B0CNKXK6LN",
-      "cover": "https://m.media-amazon.com/images/P/B0CNKXK6LN.01.L.jpg"
-    },
-    {
-      "asin": "B0DZ2KFQWC",
-      "title": "Ukraine vs Russia: War Movie Story",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B0DZ2KFQWC",
-      "cover": "https://m.media-amazon.com/images/P/B0DZ2KFQWC.01.L.jpg"
-    },
-    {
-      "asin": "B09R6JV4L3",
-      "title": "Visitors from Outer Space: Extensive study of Aliens, UFOs and Extra Terrestrial Life",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Science",
-      "amazon_url": "https://www.amazon.com/dp/B09R6JV4L3",
-      "cover": "https://m.media-amazon.com/images/P/B09R6JV4L3.01.L.jpg"
-    },
-    {
-      "asin": "B0CJ5PCH83",
-      "title": "Vegetable Gardening, Salads and Recipes",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Health & Lifestyle",
-      "amazon_url": "https://www.amazon.com/dp/B0CJ5PCH83",
-      "cover": "https://m.media-amazon.com/images/P/B0CJ5PCH83.01.L.jpg"
-    },
-    {
-      "asin": "B0CXTMHZH7",
-      "title": "Large Language Models",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Technology & AI",
-      "amazon_url": "https://www.amazon.com/dp/B0CXTMHZH7",
-      "cover": "https://m.media-amazon.com/images/P/B0CXTMHZH7.01.L.jpg"
-    },
-    {
-      "asin": "B0CL3T2NXZ",
-      "title": "The Ramayana",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CL3T2NXZ",
-      "cover": "https://m.media-amazon.com/images/P/B0CL3T2NXZ.01.L.jpg"
-    },
-    {
-      "asin": "B07FQP4X1Q",
-      "title": "CAR INSURANCE AND CLAIMS: A GUIDE TO TAKING CAR INSURANCE AND CLAIM PROCESSING FOR ALL TYPES OF VEHICLES",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B07FQP4X1Q",
-      "cover": "https://m.media-amazon.com/images/P/B07FQP4X1Q.01.L.jpg"
-    },
-    {
-      "asin": "B0F2K93VQL",
-      "title": "Inside the Dark Web",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Technology & AI",
-      "amazon_url": "https://www.amazon.com/dp/B0F2K93VQL",
-      "cover": "https://m.media-amazon.com/images/P/B0F2K93VQL.01.L.jpg"
-    },
-    {
-      "asin": "B0CM6R715P",
-      "title": "THIEVES OF PALESTINE",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CM6R715P",
-      "cover": "https://m.media-amazon.com/images/P/B0CM6R715P.01.L.jpg"
-    },
-    {
-      "asin": "B0CRPY1FSC",
-      "title": "Subconscious Programming: Exploring Myths, Facts, and Realities",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CRPY1FSC",
-      "cover": "https://m.media-amazon.com/images/P/B0CRPY1FSC.01.L.jpg"
-    },
-    {
-      "asin": "B0FJSHLN83",
-      "title": "Mission NYC",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0FJSHLN83",
-      "cover": "https://m.media-amazon.com/images/P/B0FJSHLN83.01.L.jpg"
-    },
-    {
-      "asin": "B0CVV6MB6K",
-      "title": "Arandor",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CVV6MB6K",
-      "cover": "https://m.media-amazon.com/images/P/B0CVV6MB6K.01.L.jpg"
-    },
-    {
-      "asin": "B0CP3TBJQQ",
-      "title": "COPYRIGHT, PATENTS, TRADEMARKS AND TRADE SECRETS LAWS",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B0CP3TBJQQ",
-      "cover": "https://m.media-amazon.com/images/P/B0CP3TBJQQ.01.L.jpg"
-    },
-    {
-      "asin": "B0DFMNLQML",
-      "title": "Data Science: Neural Networks, Deep Learning, LLMs and Power BI",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Technology & AI",
-      "amazon_url": "https://www.amazon.com/dp/B0DFMNLQML",
-      "cover": "https://m.media-amazon.com/images/P/B0DFMNLQML.01.L.jpg"
-    },
-    {
-      "asin": "B0CRTSLJ3S",
-      "title": "The Struggling Author",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CRTSLJ3S",
-      "cover": "https://m.media-amazon.com/images/P/B0CRTSLJ3S.01.L.jpg"
-    },
-    {
-      "asin": "B0DZ18GQFZ",
-      "title": "Space, Time and Matter",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Science",
-      "amazon_url": "https://www.amazon.com/dp/B0DZ18GQFZ",
-      "cover": "https://m.media-amazon.com/images/P/B0DZ18GQFZ.01.L.jpg"
+      "cover": "https://m.media-amazon.com/images/P/B0DGFZF8S6.01.L.jpg",
+      "slug": "a-watery-mystery",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
       "asin": "B0CLRVLL7S",
@@ -569,39 +43,488 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "Romance",
       "amazon_url": "https://www.amazon.com/dp/B0CLRVLL7S",
-      "cover": "https://m.media-amazon.com/images/P/B0CLRVLL7S.01.L.jpg"
+      "cover": "https://m.media-amazon.com/images/P/B0CLRVLL7S.01.L.jpg",
+      "slug": "a-werewolf-s-tale-of-love-and-destiny",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B0CVW527VZ",
-      "title": "Risks Associated with Artifical Intelligence and Robotics",
+      "asin": "B0CRV2FBLP",
+      "title": "A Werewolf's Tale of Love and Destiny",
       "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CVW527VZ",
-      "cover": "https://m.media-amazon.com/images/P/B0CVW527VZ.01.L.jpg"
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0CRV2FBLP",
+      "cover": "https://m.media-amazon.com/images/P/B0CRV2FBLP.01.L.jpg",
+      "slug": "a-werewolf-s-tale-of-love-and-destiny",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B0F4DYWD5Q",
-      "title": "The Code of Hammurabi",
+      "asin": "B0CKNNYT38",
+      "title": "Administrative Law: Adapting to New Challenges and Realities",
       "author": "Jagdish Krishanlal Arora",
       "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0F4DYWD5Q",
-      "cover": "https://m.media-amazon.com/images/P/B0F4DYWD5Q.01.L.jpg"
+      "amazon_url": "https://www.amazon.com/dp/B0CKNNYT38",
+      "cover": "https://m.media-amazon.com/images/P/B0CKNNYT38.01.L.jpg",
+      "slug": "administrative-law-adapting-to-new-challenges-and-realities",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B0CQDH7HLR",
-      "title": "TIME TRAVEL",
+      "asin": "B0B92CH76K",
+      "title": "Amazon edition — B0B92CH76K",
       "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CQDH7HLR",
-      "cover": "https://m.media-amazon.com/images/P/B0CQDH7HLR.01.L.jpg"
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0B92CH76K",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0b92ch76k"
     },
     {
-      "asin": "B0CLND68TX",
-      "title": "The Lost Son",
+      "asin": "B0CC4KH4DY",
+      "title": "Amazon edition — B0CC4KH4DY",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CC4KH4DY",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cc4kh4dy"
+    },
+    {
+      "asin": "B0CCZWNFWT",
+      "title": "Amazon edition — B0CCZWNFWT",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CCZWNFWT",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cczwnfwt"
+    },
+    {
+      "asin": "B0CCZXQRMY",
+      "title": "Amazon edition — B0CCZXQRMY",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CCZXQRMY",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cczxqrmy"
+    },
+    {
+      "asin": "B0CH2QRJ6P",
+      "title": "Amazon edition — B0CH2QRJ6P",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CH2QRJ6P",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0ch2qrj6p"
+    },
+    {
+      "asin": "B0CHCWPPT9",
+      "title": "Amazon edition — B0CHCWPPT9",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CHCWPPT9",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0chcwppt9"
+    },
+    {
+      "asin": "B0CMXXVNKF",
+      "title": "Amazon edition — B0CMXXVNKF",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CMXXVNKF",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cmxxvnkf"
+    },
+    {
+      "asin": "B0CNS5LBLD",
+      "title": "Amazon edition — B0CNS5LBLD",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CNS5LBLD",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cns5lbld"
+    },
+    {
+      "asin": "B0CNS5ZNWC",
+      "title": "Amazon edition — B0CNS5ZNWC",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CNS5ZNWC",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cns5znwc"
+    },
+    {
+      "asin": "B0CPV1R41P",
+      "title": "Amazon edition — B0CPV1R41P",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CPV1R41P",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cpv1r41p"
+    },
+    {
+      "asin": "B0CQHZJ9V4",
+      "title": "Amazon edition — B0CQHZJ9V4",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CQHZJ9V4",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cqhzj9v4"
+    },
+    {
+      "asin": "B0CRHT9CL9",
+      "title": "Amazon edition — B0CRHT9CL9",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CRHT9CL9",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0crht9cl9"
+    },
+    {
+      "asin": "B0CXJ3L561",
+      "title": "Amazon edition — B0CXJ3L561",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CXJ3L561",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cxj3l561"
+    },
+    {
+      "asin": "B0CXJKTF4X",
+      "title": "Amazon edition — B0CXJKTF4X",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0CXJKTF4X",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0cxjktf4x"
+    },
+    {
+      "asin": "B0D8JXGFHG",
+      "title": "Amazon edition — B0D8JXGFHG",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0D8JXGFHG",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0d8jxgfhg"
+    },
+    {
+      "asin": "B0D8KWKN1T",
+      "title": "Amazon edition — B0D8KWKN1T",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0D8KWKN1T",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0d8kwkn1t"
+    },
+    {
+      "asin": "B0DRBC2M51",
+      "title": "Amazon edition — B0DRBC2M51",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0DRBC2M51",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0drbc2m51"
+    },
+    {
+      "asin": "B0DVBL912R",
+      "title": "Amazon edition — B0DVBL912R",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0DVBL912R",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0dvbl912r"
+    },
+    {
+      "asin": "B0DZGPD4PL",
+      "title": "Amazon edition — B0DZGPD4PL",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0DZGPD4PL",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0dzgpd4pl"
+    },
+    {
+      "asin": "B0DZXZNPD5",
+      "title": "Amazon edition — B0DZXZNPD5",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0DZXZNPD5",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0dzxznpd5"
+    },
+    {
+      "asin": "B0F8R5DJVF",
+      "title": "Amazon edition — B0F8R5DJVF",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0F8R5DJVF",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0f8r5djvf"
+    },
+    {
+      "asin": "B0FL17QMDJ",
+      "title": "Amazon edition — B0FL17QMDJ",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0FL17QMDJ",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0fl17qmdj"
+    },
+    {
+      "asin": "B0FMKNVK53",
+      "title": "Amazon edition — B0FMKNVK53",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0FMKNVK53",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0fmknvk53"
+    },
+    {
+      "asin": "B0FPF3L1N6",
+      "title": "Amazon edition — B0FPF3L1N6",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0FPF3L1N6",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0fpf3l1n6"
+    },
+    {
+      "asin": "B0FQV9VFMD",
+      "title": "Amazon edition — B0FQV9VFMD",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0FQV9VFMD",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0fqv9vfmd"
+    },
+    {
+      "asin": "B0G1HJ872N",
+      "title": "Amazon edition — B0G1HJ872N",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0G1HJ872N",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0g1hj872n"
+    },
+    {
+      "asin": "B0H6XYFJSN",
+      "title": "Amazon edition — B0H6XYFJSN",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H6XYFJSN",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h6xyfjsn"
+    },
+    {
+      "asin": "B0H7218BP5",
+      "title": "Amazon edition — B0H7218BP5",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H7218BP5",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h7218bp5"
+    },
+    {
+      "asin": "B0H7269Q36",
+      "title": "Amazon edition — B0H7269Q36",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H7269Q36",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h7269q36"
+    },
+    {
+      "asin": "B0H72B9YLP",
+      "title": "Amazon edition — B0H72B9YLP",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H72B9YLP",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h72b9ylp"
+    },
+    {
+      "asin": "B0H72H2JV6",
+      "title": "Amazon edition — B0H72H2JV6",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H72H2JV6",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h72h2jv6"
+    },
+    {
+      "asin": "B0H72LB3NQ",
+      "title": "Amazon edition — B0H72LB3NQ",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H72LB3NQ",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h72lb3nq"
+    },
+    {
+      "asin": "B0H72NCJ82",
+      "title": "Amazon edition — B0H72NCJ82",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H72NCJ82",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h72ncj82"
+    },
+    {
+      "asin": "B0H72NKYLK",
+      "title": "Amazon edition — B0H72NKYLK",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H72NKYLK",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h72nkylk"
+    },
+    {
+      "asin": "B0H72Q4G84",
+      "title": "Amazon edition — B0H72Q4G84",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H72Q4G84",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h72q4g84"
+    },
+    {
+      "asin": "B0H87MP4R9",
+      "title": "Amazon edition — B0H87MP4R9",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H87MP4R9",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h87mp4r9"
+    },
+    {
+      "asin": "B0H8MF3NNV",
+      "title": "Amazon edition — B0H8MF3NNV",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H8MF3NNV",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h8mf3nnv"
+    },
+    {
+      "asin": "B0H8MG4K88",
+      "title": "Amazon edition — B0H8MG4K88",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H8MG4K88",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h8mg4k88"
+    },
+    {
+      "asin": "B0HF9T3L5L",
+      "title": "Amazon edition — B0HF9T3L5L",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0HF9T3L5L",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0hf9t3l5l"
+    },
+    {
+      "asin": "B0CVV6MB6K",
+      "title": "Arandor",
       "author": "Jagdish Krishanlal Arora",
       "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CLND68TX",
-      "cover": "https://m.media-amazon.com/images/P/B0CLND68TX.01.L.jpg"
+      "amazon_url": "https://www.amazon.com/dp/B0CVV6MB6K",
+      "cover": "https://m.media-amazon.com/images/P/B0CVV6MB6K.01.L.jpg",
+      "slug": "arandor",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0FMNKNF9J",
+      "title": "Basic and Advanced Physics",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Science",
+      "amazon_url": "https://www.amazon.com/dp/B0FMNKNF9J",
+      "cover": "https://m.media-amazon.com/images/P/B0FMNKNF9J.01.L.jpg",
+      "slug": "basic-and-advanced-physics",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CG64CX52",
+      "title": "Basic Inorganic and Organic Chemistry",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Science",
+      "amazon_url": "https://www.amazon.com/dp/B0CG64CX52",
+      "cover": "https://m.media-amazon.com/images/P/B0CG64CX52.01.L.jpg",
+      "slug": "basic-inorganic-and-organic-chemistry",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CN6K3K3D",
+      "title": "Become a Better Writer With Creative Writing",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CN6K3K3D",
+      "cover": "https://m.media-amazon.com/images/P/B0CN6K3K3D.01.L.jpg",
+      "slug": "become-a-better-writer-with-creative-writing",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CK19BQ8Z",
+      "title": "Book of Herbs and Spices",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CK19BQ8Z",
+      "cover": "https://m.media-amazon.com/images/P/B0CK19BQ8Z.01.L.jpg",
+      "slug": "book-of-herbs-and-spices",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CFJJ6GW1",
+      "title": "Book of Jokes",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CFJJ6GW1",
+      "cover": "https://m.media-amazon.com/images/P/B0CFJJ6GW1.01.L.jpg",
+      "slug": "book-of-jokes",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
       "asin": "B0CL2HRTJ3",
@@ -609,15 +532,65 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "General Non-Fiction",
       "amazon_url": "https://www.amazon.com/dp/B0CL2HRTJ3",
-      "cover": "https://m.media-amazon.com/images/P/B0CL2HRTJ3.01.L.jpg"
+      "cover": "https://m.media-amazon.com/images/P/B0CL2HRTJ3.01.L.jpg",
+      "slug": "calculus-derivatives-and-integrals",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B0CHX2YBZL",
-      "title": "Queen Elizabeth II and The British Monarchy",
+      "asin": "B07FQP4X1Q",
+      "title": "CAR INSURANCE AND CLAIMS: A GUIDE TO TAKING CAR INSURANCE AND CLAIM PROCESSING FOR ALL TYPES OF VEHICLES",
       "author": "Jagdish Krishanlal Arora",
       "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CHX2YBZL",
-      "cover": "https://m.media-amazon.com/images/P/B0CHX2YBZL.01.L.jpg"
+      "amazon_url": "https://www.amazon.com/dp/B07FQP4X1Q",
+      "cover": "https://m.media-amazon.com/images/P/B07FQP4X1Q.01.L.jpg",
+      "slug": "car-insurance-and-claims-a-guide-to-taking-car-insurance-and-claim-processing-for-all-type",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CWBMMQ3K",
+      "title": "Children of the Magic Realm",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Children",
+      "amazon_url": "https://www.amazon.com/dp/B0CWBMMQ3K",
+      "cover": "https://m.media-amazon.com/images/P/B0CWBMMQ3K.01.L.jpg",
+      "slug": "children-of-the-magic-realm",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0F6VRZNS7",
+      "title": "Contract Marriage to Everlasting Love",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0F6VRZNS7",
+      "cover": "https://m.media-amazon.com/images/P/B0F6VRZNS7.01.L.jpg",
+      "slug": "contract-marriage-to-everlasting-love",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0FDCJ4NGS",
+      "title": "Contract Marriage to Everlasting Love",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0FDCJ4NGS",
+      "cover": "https://m.media-amazon.com/images/P/B0FDCJ4NGS.01.L.jpg",
+      "slug": "contract-marriage-to-everlasting-love",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CP3TBJQQ",
+      "title": "COPYRIGHT, PATENTS, TRADEMARKS AND TRADE SECRETS LAWS",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0CP3TBJQQ",
+      "cover": "https://m.media-amazon.com/images/P/B0CP3TBJQQ.01.L.jpg",
+      "slug": "copyright-patents-trademarks-and-trade-secrets-laws",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
       "asin": "B0CZHRKQJL",
@@ -625,95 +598,43 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "Technology & AI",
       "amazon_url": "https://www.amazon.com/dp/B0CZHRKQJL",
-      "cover": "https://m.media-amazon.com/images/P/B0CZHRKQJL.01.L.jpg"
+      "cover": "https://m.media-amazon.com/images/P/B0CZHRKQJL.01.L.jpg",
+      "slug": "cyber-security",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B0CPT2WDSZ",
-      "title": "The Untold Story of Diana and Prince Charles",
+      "asin": "B0DFMNLQML",
+      "title": "Data Science: Neural Networks, Deep Learning, LLMs and Power BI",
       "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CPT2WDSZ",
-      "cover": "https://m.media-amazon.com/images/P/B0CPT2WDSZ.01.L.jpg"
+      "genre": "Technology & AI",
+      "amazon_url": "https://www.amazon.com/dp/B0DFMNLQML",
+      "cover": "https://m.media-amazon.com/images/P/B0DFMNLQML.01.L.jpg",
+      "slug": "data-science-neural-networks-deep-learning-llms-and-power-bi",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B0CK843QQD",
-      "title": "Romance Pays Off",
+      "asin": "B0CPJ5VMB8",
+      "title": "DECODING CHATGPT AND ARTIFICIAL INTELLIGENCE",
       "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0CK843QQD",
-      "cover": "https://m.media-amazon.com/images/P/B0CK843QQD.01.L.jpg"
+      "genre": "Technology & AI",
+      "amazon_url": "https://www.amazon.com/dp/B0CPJ5VMB8",
+      "cover": "https://m.media-amazon.com/images/P/B0CPJ5VMB8.01.L.jpg",
+      "slug": "decoding-chatgpt-and-artificial-intelligence",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B0CHW2WX5W",
-      "title": "2024 Elections, Bharat, Modern India and Bharat Jodo Yatra of Rahul Gandhi",
+      "asin": "B0FD47BJSL",
+      "title": "DIGITAL ELECTRONICS, COMPUTER ARCHITECTURE AND MICROPORCESSOR DESIGN PRINCIPLES: WITH REAL LIFE PRACTICAL APPLICATION IN COMPUTING, NETWORKING, MINING, REMOTE SENSING, DATABASE AND IMAGERY",
       "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CHW2WX5W",
-      "cover": "https://m.media-amazon.com/images/P/B0CHW2WX5W.01.L.jpg"
-    },
-    {
-      "asin": "B0CRPMK1JW",
-      "title": "How to Lose Weight Quickly",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Health & Lifestyle",
-      "amazon_url": "https://www.amazon.com/dp/B0CRPMK1JW",
-      "cover": "https://m.media-amazon.com/images/P/B0CRPMK1JW.01.L.jpg"
-    },
-    {
-      "asin": "B0CF63ZZSG",
-      "title": "From Oasis to Global Stage: The Evolution of Arab Civilization",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CF63ZZSG",
-      "cover": "https://m.media-amazon.com/images/P/B0CF63ZZSG.01.L.jpg"
-    },
-    {
-      "asin": "B0CLJ3VTP4",
-      "title": "Love in Chicago (Romance Book 2)",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Romance",
-      "amazon_url": "https://www.amazon.com/dp/B0CLJ3VTP4",
-      "cover": "https://m.media-amazon.com/images/P/B0CLJ3VTP4.01.L.jpg"
-    },
-    {
-      "asin": "B086LDNHWC",
-      "title": "Indira Gandhi-Harbinger of Peace",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B086LDNHWC",
-      "cover": "https://m.media-amazon.com/images/P/B086LDNHWC.01.L.jpg"
-    },
-    {
-      "asin": "B0CKS79286",
-      "title": "The Nexus",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CKS79286",
-      "cover": "https://m.media-amazon.com/images/P/B0CKS79286.01.L.jpg"
-    },
-    {
-      "asin": "B0CJTZVGHY",
-      "title": "How to End The War in Ukraine",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "History & Mystery",
-      "amazon_url": "https://www.amazon.com/dp/B0CJTZVGHY",
-      "cover": "https://m.media-amazon.com/images/P/B0CJTZVGHY.01.L.jpg"
-    },
-    {
-      "asin": "B07FQMQXDW",
-      "title": "Motivation: We all need motivation at some part of our life. Without motivation life is difficult for us. (Mental Health and Well Being Book 2)",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "Health & Lifestyle",
-      "amazon_url": "https://www.amazon.com/dp/B07FQMQXDW",
-      "cover": "https://m.media-amazon.com/images/P/B07FQMQXDW.01.L.jpg"
-    },
-    {
-      "asin": "B0CY5YNH1M",
-      "title": "Travellers Guide To Mount Shasta, California",
-      "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B0CY5YNH1M",
-      "cover": "https://m.media-amazon.com/images/P/B0CY5YNH1M.01.L.jpg"
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0FD47BJSL",
+      "cover": "https://m.media-amazon.com/images/P/B0FD47BJSL.01.L.jpg",
+      "slug": "digital-electronics-computer-architecture-and-microporcessor-design-principles-with-real-l",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
       "asin": "B0CNMY82M8",
@@ -721,23 +642,109 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "General Non-Fiction",
       "amazon_url": "https://www.amazon.com/dp/B0CNMY82M8",
-      "cover": "https://m.media-amazon.com/images/P/B0CNMY82M8.01.L.jpg"
+      "cover": "https://m.media-amazon.com/images/P/B0CNMY82M8.01.L.jpg",
+      "slug": "emerging-trends-in-carbon-emission-reduction",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B07NXG213G",
-      "title": "Productive Healthcare Management",
+      "asin": "B0G2K2VS7W",
+      "title": "EVM: Electronic Voting Machine Hacking, Design, and Software",
       "author": "Jagdish Krishanlal Arora",
-      "genre": "Health & Lifestyle",
-      "amazon_url": "https://www.amazon.com/dp/B07NXG213G",
-      "cover": "https://m.media-amazon.com/images/P/B07NXG213G.01.L.jpg"
+      "genre": "Technology & AI",
+      "amazon_url": "https://www.amazon.com/dp/B0G2K2VS7W",
+      "cover": "https://m.media-amazon.com/images/P/B0G2K2VS7W.01.L.jpg",
+      "slug": "evm-electronic-voting-machine-hacking-design-and-software",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B08N5MZQ3V",
-      "title": "PATRIOTIC NATIONALIST THE GREAT SUBHAS CHANDRA BOSE",
+      "asin": "B0FCMR736G",
+      "title": "Expedition to the Lost City of Atlantis",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0FCMR736G",
+      "cover": "https://m.media-amazon.com/images/P/B0FCMR736G.01.L.jpg",
+      "slug": "expedition-to-the-lost-city-of-atlantis",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CF63ZZSG",
+      "title": "From Oasis to Global Stage: The Evolution of Arab Civilization",
       "author": "Jagdish Krishanlal Arora",
       "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B08N5MZQ3V",
-      "cover": "https://m.media-amazon.com/images/P/B08N5MZQ3V.01.L.jpg"
+      "amazon_url": "https://www.amazon.com/dp/B0CF63ZZSG",
+      "cover": "https://m.media-amazon.com/images/P/B0CF63ZZSG.01.L.jpg",
+      "slug": "from-oasis-to-global-stage-the-evolution-of-arab-civilization",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CNKXK6LN",
+      "title": "God was Created by Early Human Civilizations",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0CNKXK6LN",
+      "cover": "https://m.media-amazon.com/images/P/B0CNKXK6LN.01.L.jpg",
+      "slug": "god-was-created-by-early-human-civilizations",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CDBXYRRG",
+      "title": "Guided Meditation and Yoga",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0CDBXYRRG",
+      "cover": "https://m.media-amazon.com/images/P/B0CDBXYRRG.01.L.jpg",
+      "slug": "guided-meditation-and-yoga",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CJTZVGHY",
+      "title": "How to End The War in Ukraine",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0CJTZVGHY",
+      "cover": "https://m.media-amazon.com/images/P/B0CJTZVGHY.01.L.jpg",
+      "slug": "how-to-end-the-war-in-ukraine",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CRPMK1JW",
+      "title": "How to Lose Weight Quickly",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Health & Lifestyle",
+      "amazon_url": "https://www.amazon.com/dp/B0CRPMK1JW",
+      "cover": "https://m.media-amazon.com/images/P/B0CRPMK1JW.01.L.jpg",
+      "slug": "how-to-lose-weight-quickly",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CNTH8KFZ",
+      "title": "India Independence Through Non Violence",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0CNTH8KFZ",
+      "cover": "https://m.media-amazon.com/images/P/B0CNTH8KFZ.01.L.jpg",
+      "slug": "india-independence-through-non-violence",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B086LDNHWC",
+      "title": "Indira Gandhi-Harbinger of Peace",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B086LDNHWC",
+      "cover": "https://m.media-amazon.com/images/P/B086LDNHWC.01.L.jpg",
+      "slug": "indira-gandhi-harbinger-of-peace",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
       "asin": "B08FHSL29S",
@@ -745,15 +752,76 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "General Non-Fiction",
       "amazon_url": "https://www.amazon.com/dp/B08FHSL29S",
-      "cover": "https://m.media-amazon.com/images/P/B08FHSL29S.01.L.jpg"
+      "cover": "https://m.media-amazon.com/images/P/B08FHSL29S.01.L.jpg",
+      "slug": "indira-gandhi-harbinger-of-peace",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "asin": "B086SFTRTG",
-      "title": "Lucknow my Lucknow: City of Nawabs Explore the City",
+      "asin": "B0F2K93VQL",
+      "title": "Inside the Dark Web",
       "author": "Jagdish Krishanlal Arora",
-      "genre": "General Non-Fiction",
-      "amazon_url": "https://www.amazon.com/dp/B086SFTRTG",
-      "cover": "https://m.media-amazon.com/images/P/B086SFTRTG.01.L.jpg"
+      "genre": "Technology & AI",
+      "amazon_url": "https://www.amazon.com/dp/B0F2K93VQL",
+      "cover": "https://m.media-amazon.com/images/P/B0F2K93VQL.01.L.jpg",
+      "slug": "inside-the-dark-web",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0DZCV4W6Q",
+      "title": "King’s Love - Princess Diana Prince Charles & Camilla Parker Bowles: A Billionaire Romance Movie Story",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0DZCV4W6Q",
+      "cover": "https://m.media-amazon.com/images/P/B0DZCV4W6Q.01.L.jpg",
+      "slug": "king-s-love-princess-diana-prince-charles-camilla-parker-bowles-a-billionaire-romance-movi",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CXTMHZH7",
+      "title": "Large Language Models",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Technology & AI",
+      "amazon_url": "https://www.amazon.com/dp/B0CXTMHZH7",
+      "cover": "https://m.media-amazon.com/images/P/B0CXTMHZH7.01.L.jpg",
+      "slug": "large-language-models",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0HJX72BNV",
+      "title": "Large Language Models",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Technology & AI",
+      "amazon_url": "https://www.amazon.com/dp/B0HJX72BNV",
+      "cover": "https://m.media-amazon.com/images/P/B0HJX72BNV.01.L.jpg",
+      "slug": "large-language-models",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CQN36QQ3",
+      "title": "LOVE IN CHICAGO",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0CQN36QQ3",
+      "cover": "https://m.media-amazon.com/images/P/B0CQN36QQ3.01.L.jpg",
+      "slug": "love-in-chicago",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CLJ3VTP4",
+      "title": "Love in Chicago (Romance Book 2)",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0CLJ3VTP4",
+      "cover": "https://m.media-amazon.com/images/P/B0CLJ3VTP4.01.L.jpg",
+      "slug": "love-in-chicago-romance-book-2",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     },
     {
       "asin": "B089T7SPSM",
@@ -761,7 +829,615 @@
       "author": "Jagdish Krishanlal Arora",
       "genre": "General Non-Fiction",
       "amazon_url": "https://www.amazon.com/dp/B089T7SPSM",
-      "cover": "https://m.media-amazon.com/images/P/B089T7SPSM.01.L.jpg"
+      "cover": "https://m.media-amazon.com/images/P/B089T7SPSM.01.L.jpg",
+      "slug": "lucknow-city-of-nawabs-culture-heritage-b-w-lucknow-city-amazing-old-rare-day-night-3d-vie",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B086SFTRTG",
+      "title": "Lucknow my Lucknow: City of Nawabs Explore the City",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B086SFTRTG",
+      "cover": "https://m.media-amazon.com/images/P/B086SFTRTG.01.L.jpg",
+      "slug": "lucknow-my-lucknow-city-of-nawabs-explore-the-city",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0DR8K3TNR",
+      "title": "Manusmriti",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0DR8K3TNR",
+      "cover": "https://m.media-amazon.com/images/P/B0DR8K3TNR.01.L.jpg",
+      "slug": "manusmriti",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0DZWDJ9TK",
+      "title": "Married to A Disabled Billionaire CEO: Only She Can Heal Him",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0DZWDJ9TK",
+      "cover": "https://m.media-amazon.com/images/P/B0DZWDJ9TK.01.L.jpg",
+      "slug": "married-to-a-disabled-billionaire-ceo-only-she-can-heal-him",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0H878DNBK",
+      "title": "MASS CHEATING UNDER THE NAME OF HOUSING LOANS IN INDIA: THE FLOATING RATE INTEREST METHOD",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0H878DNBK",
+      "cover": "https://m.media-amazon.com/images/P/B0H878DNBK.01.L.jpg",
+      "slug": "mass-cheating-under-the-name-of-housing-loans-in-india-the-floating-rate-interest-method",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0DYP1WNV6",
+      "title": "Mastering Prompt Engineering: Unlocking the Full Potential of AI",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Technology & AI",
+      "amazon_url": "https://www.amazon.com/dp/B0DYP1WNV6",
+      "cover": "https://m.media-amazon.com/images/P/B0DYP1WNV6.01.L.jpg",
+      "slug": "mastering-prompt-engineering-unlocking-the-full-potential-of-ai",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B07GC6CMBR",
+      "title": "Media Convergence and Digitization: Media and Internet, Social Media Management, News and Digital Marketing",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B07GC6CMBR",
+      "cover": "https://m.media-amazon.com/images/P/B07GC6CMBR.01.L.jpg",
+      "slug": "media-convergence-and-digitization-media-and-internet-social-media-management-news-and-dig",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CKB7WZMK",
+      "title": "Mental Health and Well Being",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Health & Lifestyle",
+      "amazon_url": "https://www.amazon.com/dp/B0CKB7WZMK",
+      "cover": "https://m.media-amazon.com/images/P/B0CKB7WZMK.01.L.jpg",
+      "slug": "mental-health-and-well-being",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0FJSHLN83",
+      "title": "Mission NYC",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0FJSHLN83",
+      "cover": "https://m.media-amazon.com/images/P/B0FJSHLN83.01.L.jpg",
+      "slug": "mission-nyc",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B07FQMQXDW",
+      "title": "Motivation: We all need motivation at some part of our life. Without motivation life is difficult for us. (Mental Health and Well Being Book 2)",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Health & Lifestyle",
+      "amazon_url": "https://www.amazon.com/dp/B07FQMQXDW",
+      "cover": "https://m.media-amazon.com/images/P/B07FQMQXDW.01.L.jpg",
+      "slug": "motivation-we-all-need-motivation-at-some-part-of-our-life-without-motivation-life-is-diff",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0FLDVH5JZ",
+      "title": "Operation White House: Donald J. Trump",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0FLDVH5JZ",
+      "cover": "https://m.media-amazon.com/images/P/B0FLDVH5JZ.01.L.jpg",
+      "slug": "operation-white-house-donald-j-trump",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B08N5MZQ3V",
+      "title": "PATRIOTIC NATIONALIST THE GREAT SUBHAS CHANDRA BOSE",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B08N5MZQ3V",
+      "cover": "https://m.media-amazon.com/images/P/B08N5MZQ3V.01.L.jpg",
+      "slug": "patriotic-nationalist-the-great-subhas-chandra-bose",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0DNTSZTHQ",
+      "title": "Planet Earth",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0DNTSZTHQ",
+      "cover": "https://m.media-amazon.com/images/P/B0DNTSZTHQ.01.L.jpg",
+      "slug": "planet-earth",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B07NXG213G",
+      "title": "Productive Healthcare Management",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Health & Lifestyle",
+      "amazon_url": "https://www.amazon.com/dp/B07NXG213G",
+      "cover": "https://m.media-amazon.com/images/P/B07NXG213G.01.L.jpg",
+      "slug": "productive-healthcare-management",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CHX2YBZL",
+      "title": "Queen Elizabeth II and The British Monarchy",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CHX2YBZL",
+      "cover": "https://m.media-amazon.com/images/P/B0CHX2YBZL.01.L.jpg",
+      "slug": "queen-elizabeth-ii-and-the-british-monarchy",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CVW527VZ",
+      "title": "Risks Associated with Artifical Intelligence and Robotics",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CVW527VZ",
+      "cover": "https://m.media-amazon.com/images/P/B0CVW527VZ.01.L.jpg",
+      "slug": "risks-associated-with-artifical-intelligence-and-robotics",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CK843QQD",
+      "title": "Romance Pays Off",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0CK843QQD",
+      "cover": "https://m.media-amazon.com/images/P/B0CK843QQD.01.L.jpg",
+      "slug": "romance-pays-off",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CQP2QLYM",
+      "title": "ROMANTIC CONFLICTS (Romance Book 1)",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0CQP2QLYM",
+      "cover": "https://m.media-amazon.com/images/P/B0CQP2QLYM.01.L.jpg",
+      "slug": "romantic-conflicts-romance-book-1",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0FPFH1DKQ",
+      "title": "Romantic Noveels Collection",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0FPFH1DKQ",
+      "cover": "https://m.media-amazon.com/images/P/B0FPFH1DKQ.01.L.jpg",
+      "slug": "romantic-noveels-collection",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0B61WHCR6",
+      "title": "Secrets of Mount Kailash, Bermuda Triangle and the Lost City of Atlantis",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0B61WHCR6",
+      "cover": "https://m.media-amazon.com/images/P/B0B61WHCR6.01.L.jpg",
+      "slug": "secrets-of-mount-kailash-bermuda-triangle-and-the-lost-city-of-atlantis",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0DZ18GQFZ",
+      "title": "Space, Time and Matter",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Science",
+      "amazon_url": "https://www.amazon.com/dp/B0DZ18GQFZ",
+      "cover": "https://m.media-amazon.com/images/P/B0DZ18GQFZ.01.L.jpg",
+      "slug": "space-time-and-matter",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CRNTFJM2",
+      "title": "Stellaris: Journey to the Stars: The Interstellar Odyssey (Children's Story books Book 1)",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Children",
+      "amazon_url": "https://www.amazon.com/dp/B0CRNTFJM2",
+      "cover": "https://m.media-amazon.com/images/P/B0CRNTFJM2.01.L.jpg",
+      "slug": "stellaris-journey-to-the-stars-the-interstellar-odyssey-children-s-story-books-book-1",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CRPY1FSC",
+      "title": "Subconscious Programming: Exploring Myths, Facts, and Realities",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CRPY1FSC",
+      "cover": "https://m.media-amazon.com/images/P/B0CRPY1FSC.01.L.jpg",
+      "slug": "subconscious-programming-exploring-myths-facts-and-realities",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CBZV1NHL",
+      "title": "The Aliens and God Theory",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0CBZV1NHL",
+      "cover": "https://m.media-amazon.com/images/P/B0CBZV1NHL.01.L.jpg",
+      "slug": "the-aliens-and-god-theory",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CVV9NXXQ",
+      "title": "The Attic's Secrets",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0CVV9NXXQ",
+      "cover": "https://m.media-amazon.com/images/P/B0CVV9NXXQ.01.L.jpg",
+      "slug": "the-attic-s-secrets",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CH5Z6BKM",
+      "title": "The Bhagavad Gita English Version",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0CH5Z6BKM",
+      "cover": "https://m.media-amazon.com/images/P/B0CH5Z6BKM.01.L.jpg",
+      "slug": "the-bhagavad-gita-english-version",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CF9619W9",
+      "title": "The Bible and Jesus Christ",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0CF9619W9",
+      "cover": "https://m.media-amazon.com/images/P/B0CF9619W9.01.L.jpg",
+      "slug": "the-bible-and-jesus-christ",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0FMK9SDZW",
+      "title": "The Billionaire’s Housemaid",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0FMK9SDZW",
+      "cover": "https://m.media-amazon.com/images/P/B0FMK9SDZW.01.L.jpg",
+      "slug": "the-billionaire-s-housemaid",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0F4DYWD5Q",
+      "title": "The Code of Hammurabi",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0F4DYWD5Q",
+      "cover": "https://m.media-amazon.com/images/P/B0F4DYWD5Q.01.L.jpg",
+      "slug": "the-code-of-hammurabi",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0B663Z73N",
+      "title": "The Guru Granth Sahib: The Eternal God",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0B663Z73N",
+      "cover": "https://m.media-amazon.com/images/P/B0B663Z73N.01.L.jpg",
+      "slug": "the-guru-granth-sahib-the-eternal-god",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CJ2LT3PZ",
+      "title": "The Kremlin Conspiracy",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0CJ2LT3PZ",
+      "cover": "https://m.media-amazon.com/images/P/B0CJ2LT3PZ.01.L.jpg",
+      "slug": "the-kremlin-conspiracy",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CLND68TX",
+      "title": "The Lost Son",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CLND68TX",
+      "cover": "https://m.media-amazon.com/images/P/B0CLND68TX.01.L.jpg",
+      "slug": "the-lost-son",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CG4KYNPY",
+      "title": "The Lunar Voyager: Return to the Moon (Children's Story books Book 3)",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Children",
+      "amazon_url": "https://www.amazon.com/dp/B0CG4KYNPY",
+      "cover": "https://m.media-amazon.com/images/P/B0CG4KYNPY.01.L.jpg",
+      "slug": "the-lunar-voyager-return-to-the-moon-children-s-story-books-book-3",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0FCDHSRPL",
+      "title": "The Marriage That Wasn't Mine",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Romance",
+      "amazon_url": "https://www.amazon.com/dp/B0FCDHSRPL",
+      "cover": "https://m.media-amazon.com/images/P/B0FCDHSRPL.01.L.jpg",
+      "slug": "the-marriage-that-wasn-t-mine",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CKS79286",
+      "title": "The Nexus",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CKS79286",
+      "cover": "https://m.media-amazon.com/images/P/B0CKS79286.01.L.jpg",
+      "slug": "the-nexus",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0G1HBGRXD",
+      "title": "The Nobel Prize and Its Global Influence",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Science",
+      "amazon_url": "https://www.amazon.com/dp/B0G1HBGRXD",
+      "cover": "https://m.media-amazon.com/images/P/B0G1HBGRXD.01.L.jpg",
+      "slug": "the-nobel-prize-and-its-global-influence",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B09R6QK2WF",
+      "title": "The Old and New World Order",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B09R6QK2WF",
+      "cover": "https://m.media-amazon.com/images/P/B09R6QK2WF.01.L.jpg",
+      "slug": "the-old-and-new-world-order",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0G2G1ZWHB",
+      "title": "The Origin and Mystery of 3I/ATLAS",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Science",
+      "amazon_url": "https://www.amazon.com/dp/B0G2G1ZWHB",
+      "cover": "https://m.media-amazon.com/images/P/B0G2G1ZWHB.01.L.jpg",
+      "slug": "the-origin-and-mystery-of-3i-atlas",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0FKTDLZSD",
+      "title": "THE PATH TO SHAMBALA: Tibetan Buddhist Adventure Thriller",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0FKTDLZSD",
+      "cover": "https://m.media-amazon.com/images/P/B0FKTDLZSD.01.L.jpg",
+      "slug": "the-path-to-shambala-tibetan-buddhist-adventure-thriller",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CL3T2NXZ",
+      "title": "The Ramayana",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CL3T2NXZ",
+      "cover": "https://m.media-amazon.com/images/P/B0CL3T2NXZ.01.L.jpg",
+      "slug": "the-ramayana",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0F7FT8PKJ",
+      "title": "The Stranger at our House",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0F7FT8PKJ",
+      "cover": "https://m.media-amazon.com/images/P/B0F7FT8PKJ.01.L.jpg",
+      "slug": "the-stranger-at-our-house",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CRTSLJ3S",
+      "title": "The Struggling Author",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CRTSLJ3S",
+      "cover": "https://m.media-amazon.com/images/P/B0CRTSLJ3S.01.L.jpg",
+      "slug": "the-struggling-author",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0DT4V5BKT",
+      "title": "The Successful Journey of a Woman Painter",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0DT4V5BKT",
+      "cover": "https://m.media-amazon.com/images/P/B0DT4V5BKT.01.L.jpg",
+      "slug": "the-successful-journey-of-a-woman-painter",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0F272QZ1M",
+      "title": "THE UKRAINE CEASEFIRE AGREEMENT AND HISTORY",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0F272QZ1M",
+      "cover": "https://m.media-amazon.com/images/P/B0F272QZ1M.01.L.jpg",
+      "slug": "the-ukraine-ceasefire-agreement-and-history",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CPT2WDSZ",
+      "title": "The Untold Story of Diana and Prince Charles",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CPT2WDSZ",
+      "cover": "https://m.media-amazon.com/images/P/B0CPT2WDSZ.01.L.jpg",
+      "slug": "the-untold-story-of-diana-and-prince-charles",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CM6R715P",
+      "title": "THIEVES OF PALESTINE",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CM6R715P",
+      "cover": "https://m.media-amazon.com/images/P/B0CM6R715P.01.L.jpg",
+      "slug": "thieves-of-palestine",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CQDH7HLR",
+      "title": "TIME TRAVEL",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CQDH7HLR",
+      "cover": "https://m.media-amazon.com/images/P/B0CQDH7HLR.01.L.jpg",
+      "slug": "time-travel",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CCW1SC8D",
+      "title": "TRAVELING TO MARS IN THE COSMIC ODYSSEY 2050 (Children's Story books Book 2)",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Children",
+      "amazon_url": "https://www.amazon.com/dp/B0CCW1SC8D",
+      "cover": "https://m.media-amazon.com/images/P/B0CCW1SC8D.01.L.jpg",
+      "slug": "traveling-to-mars-in-the-cosmic-odyssey-2050-children-s-story-books-book-2",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CLL25QLR",
+      "title": "Travellers Guide to Mount Kailash",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Spirituality",
+      "amazon_url": "https://www.amazon.com/dp/B0CLL25QLR",
+      "cover": "https://m.media-amazon.com/images/P/B0CLL25QLR.01.L.jpg",
+      "slug": "travellers-guide-to-mount-kailash",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CY5YNH1M",
+      "title": "Travellers Guide To Mount Shasta, California",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "General Non-Fiction",
+      "amazon_url": "https://www.amazon.com/dp/B0CY5YNH1M",
+      "cover": "https://m.media-amazon.com/images/P/B0CY5YNH1M.01.L.jpg",
+      "slug": "travellers-guide-to-mount-shasta-california",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0DZ2KFQWC",
+      "title": "Ukraine vs Russia: War Movie Story",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0DZ2KFQWC",
+      "cover": "https://m.media-amazon.com/images/P/B0DZ2KFQWC.01.L.jpg",
+      "slug": "ukraine-vs-russia-war-movie-story",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CDQ3TNCJ",
+      "title": "Unity's Quest: The Enchanted Secrets of Greenvale",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Children",
+      "amazon_url": "https://www.amazon.com/dp/B0CDQ3TNCJ",
+      "cover": "https://m.media-amazon.com/images/P/B0CDQ3TNCJ.01.L.jpg",
+      "slug": "unity-s-quest-the-enchanted-secrets-of-greenvale",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CJ5PCH83",
+      "title": "Vegetable Gardening, Salads and Recipes",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Health & Lifestyle",
+      "amazon_url": "https://www.amazon.com/dp/B0CJ5PCH83",
+      "cover": "https://m.media-amazon.com/images/P/B0CJ5PCH83.01.L.jpg",
+      "slug": "vegetable-gardening-salads-and-recipes",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B09R6JV4L3",
+      "title": "Visitors from Outer Space: Extensive study of Aliens, UFOs and Extra Terrestrial Life",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Science",
+      "amazon_url": "https://www.amazon.com/dp/B09R6JV4L3",
+      "cover": "https://m.media-amazon.com/images/P/B09R6JV4L3.01.L.jpg",
+      "slug": "visitors-from-outer-space-extensive-study-of-aliens-ufos-and-extra-terrestrial-life",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CH6P3RMY",
+      "title": "WordPress Design and Development",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "Technology & AI",
+      "amazon_url": "https://www.amazon.com/dp/B0CH6P3RMY",
+      "cover": "https://m.media-amazon.com/images/P/B0CH6P3RMY.01.L.jpg",
+      "slug": "wordpress-design-and-development",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "asin": "B0CNRM4FLC",
+      "title": "World War IV: Russia Vs United States",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "History & Mystery",
+      "amazon_url": "https://www.amazon.com/dp/B0CNRM4FLC",
+      "cover": "https://m.media-amazon.com/images/P/B0CNRM4FLC.01.L.jpg",
+      "slug": "world-war-iv-russia-vs-united-states",
+      "google_books_status": "error",
+      "google_books_error": "HTTP Error 429: Too Many Requests"
     }
   ]
 }
