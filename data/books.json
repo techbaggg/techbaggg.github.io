@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T12:26:26.919211+00:00",
+  "generated_at": "2026-10-24T11:51:51.647896+00:00",
   "source": "Amazon author-page discoveries merged with curated seeds and enriched with Amazon/Google Books metadata.",
-  "discovered_count": 54,
-  "catalog_count": 134,
+  "discovered_count": 55,
+  "catalog_count": 137,
   "books": [
     {
       "asin": "B0CHW2WX5W",
@@ -281,6 +281,26 @@
       "slug": "amazon-edition-b0f8r5djvf"
     },
     {
+      "asin": "B0FD74HT6S",
+      "title": "Amazon edition — B0FD74HT6S",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0FD74HT6S",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0fd74ht6s"
+    },
+    {
+      "asin": "B0FG24FXLP",
+      "title": "Amazon edition — B0FG24FXLP",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0FG24FXLP",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0fg24fxlp"
+    },
+    {
       "asin": "B0FL17QMDJ",
       "title": "Amazon edition — B0FL17QMDJ",
       "author": "Jagdish Krishanlal Arora",
@@ -419,6 +439,16 @@
       "google_books_status": "no-title",
       "amazon_title_status": "unavailable",
       "slug": "amazon-edition-b0h72q4g84"
+    },
+    {
+      "asin": "B0H7K8PDHV",
+      "title": "Amazon edition — B0H7K8PDHV",
+      "author": "Jagdish Krishanlal Arora",
+      "genre": "other",
+      "amazon_url": "https://www.amazon.com/dp/B0H7K8PDHV",
+      "google_books_status": "no-title",
+      "amazon_title_status": "unavailable",
+      "slug": "amazon-edition-b0h7k8pdhv"
     },
     {
       "asin": "B0H87MP4R9",

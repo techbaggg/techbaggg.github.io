@@ -1,7 +1,7 @@
 {
   "source": "https://www.amazon.com/stores/Jagdish-Arora/author/B07FB9KSB6",
-  "checked_at": "2026-10-20T12:33:22.012168+00:00",
-  "count": 54,
+  "checked_at": "2026-10-24T11:51:46.930651+00:00",
+  "count": 55,
   "books": [
     {
       "asin": "B0B61WHCR6",
@@ -30,14 +30,6 @@
     {
       "asin": "B0CCZXQRMY",
       "amazon_url": "https://www.amazon.com/dp/B0CCZXQRMY"
-    },
-    {
-      "asin": "B0CH2QRJ6P",
-      "amazon_url": "https://www.amazon.com/dp/B0CH2QRJ6P"
-    },
-    {
-      "asin": "B0CH5Z6BKM",
-      "amazon_url": "https://www.amazon.com/dp/B0CH5Z6BKM"
     },
     {
       "asin": "B0CH6P3RMY",
@@ -132,8 +124,16 @@
       "amazon_url": "https://www.amazon.com/dp/B0DZXZNPD5"
     },
     {
-      "asin": "B0F8R5DJVF",
-      "amazon_url": "https://www.amazon.com/dp/B0F8R5DJVF"
+      "asin": "B0FD47BJSL",
+      "amazon_url": "https://www.amazon.com/dp/B0FD47BJSL"
+    },
+    {
+      "asin": "B0FD74HT6S",
+      "amazon_url": "https://www.amazon.com/dp/B0FD74HT6S"
+    },
+    {
+      "asin": "B0FG24FXLP",
+      "amazon_url": "https://www.amazon.com/dp/B0FG24FXLP"
     },
     {
       "asin": "B0FKTDLZSD",
@@ -198,6 +198,10 @@
     {
       "asin": "B0H72Q4G84",
       "amazon_url": "https://www.amazon.com/dp/B0H72Q4G84"
+    },
+    {
+      "asin": "B0H7K8PDHV",
+      "amazon_url": "https://www.amazon.com/dp/B0H7K8PDHV"
     },
     {
       "asin": "B0H878DNBK",
